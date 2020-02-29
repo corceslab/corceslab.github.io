@@ -1,10 +1,20 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Corces Lab
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: The official website of the Corces Lab at the Gladstone Institute for Neurological Disease
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://corceslab.github.io/ # the base hostname & protocol for your site
+git_address: https://github.com/corceslab/corceslab.github.io
+git_edit_address: https://github.com/corceslab/corceslab.github.io/blob/master
+
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: yeti
+
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -16,31 +26,13 @@ description: A virtual proof that I'm awesome
 # baseurl should be an empty string
 #baseurl: ""
 
-# --- Navigation bar options --- #
-
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
-
-# Image to show in the navigation bar - image must be a square (width = height)
-# Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
-
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
-# title-img: /path/to/image
-
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
+# navbar-col: "#F5F5F5"
+# navbar-text-col: "#404040"
+# navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
