@@ -7,7 +7,7 @@ var main = {
 
   init : function() {
     // Shorten the navbar after scrolling a little bit down
-    $(window).scroll(function() {
+    /*$(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
             $(".navbar").addClass("top-nav-short");
             $(".navbar-custom .avatar-container").fadeOut(500);
@@ -15,7 +15,7 @@ var main = {
             $(".navbar").removeClass("top-nav-short");
             $(".navbar-custom .avatar-container").fadeIn(500);
         }
-    });
+    });*/
 
     // On mobile, hide the avatar when expanding the navbar menu
     $('#main-navbar').on('show.bs.collapse', function () {
