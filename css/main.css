@@ -797,4 +797,8 @@ pre {
   margin-top: 0px;
   margin-bottom: 100px;
   left: 50%;
+  float: left;
+  min-height: 1px;
+  padding-right: 0px;
+  padding-left: 0px;
 }
