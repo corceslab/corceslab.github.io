@@ -788,3 +788,12 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+.banner {
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  height: 100px;
+  margin-top: 100px;
+  left: 50%;
+}
