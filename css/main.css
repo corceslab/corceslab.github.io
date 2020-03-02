@@ -792,6 +792,7 @@ pre {
 .banner {
   width: 100vw;
   margin-top: 49px;
+  margin-bottom: 10px;
 }
 .clear{
   clear: both;
