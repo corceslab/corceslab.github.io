@@ -22,6 +22,7 @@ description: The Corces Lab @ The Gladstone Institutes / UCSF
 navbar-links:
   Research: "research"
   Team: "team"
+  Resources: "resources"
   Publications: "publications"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
