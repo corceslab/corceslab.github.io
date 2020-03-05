@@ -4,16 +4,16 @@
 #   icon: Specify a valid fontawesome icon class
 
 Research:
-  icon: "fa-flask"
+  icon: "far fa-flask"
 
 Team:
-  icon: "fa-users"
+  icon: "far fa-users"
 
 Resources:
-  icon: "fa-flask"
+  icon: "far fa-file-code-o"
 
 Publications:
-  icon: "fa-flask"
+  icon: "far fa-file-alt"
 
 Contact:
-  icon: "fa-flask"
+  icon: "far fa-map-marker-alt"

@@ -45,7 +45,7 @@
           </li>
         {% else %}
           <li> 
-            <a href="{{ link[1] | relative_url }}"> <span class="fa {{ element.icon }}" aria-hidden="true"></span> {{ link[0] }}</a>
+            <a href="{{ link[1] | relative_url }}"> <span class="{{ element.icon }}" aria-hidden="true"></span> {{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
