@@ -45,7 +45,12 @@
             </div>
           </li>
         {% else %}
-          <li><a href="{{ link[1] | relative_url }}">{{ link[0] }}</a></li>
+          <li>
+            <span aria-hidden="true">
+              <i class="fa fa-flask"></i>
+            </span>  
+            <a href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+          </li>
         {%- endif -%}
       {%- endfor -%}
       </ul>
