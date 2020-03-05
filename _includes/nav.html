@@ -30,11 +30,10 @@
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
       {%- for link in site.navbar-links -%}
+        {%- assign curkey = link[0] -%}
+        {%- assign element = site.data.NavbarIcons[curkey] -%}
         {%- if link[1].first %}
           <li class="navlinks-container">
-            <span aria-hidden="true">
-              <i class="fa fa-flask"></i>
-            </span>         
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
@@ -46,7 +45,7 @@
           </li>
         {% else %}
           <li> 
-            <a href="{{ link[1] | relative_url }}"> <span class="{{ site.navbar-icons[ forloop.index ] }}" aria-hidden="true"></span> {{ link[0] }}</a>
+            <a href="{{ link[1] | relative_url }}"> <span class="fa {{ element.icon }}" aria-hidden="true"></span> {{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}

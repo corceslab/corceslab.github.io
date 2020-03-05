@@ -1,0 +1,19 @@
+# You can define your custom navbar links here.
+# Use the same key you added in _config.yml -> navbar-links.
+# In addition to that you need to specify the following properties:
+#   icon: Specify a valid fontawesome icon class
+
+Research:
+  icon: "fa-flask"
+
+Team:
+  icon: "fa-users"
+
+Resources:
+  icon: "fa-file-code"
+
+Publications:
+  icon: "fa-file-alt"
+
+Contact:
+  icon: "fa-map-marker-alt"
