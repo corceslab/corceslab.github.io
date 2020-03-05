@@ -20,11 +20,11 @@ description: The Corces Lab @ The Gladstone Institutes / UCSF
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
-  Team: "team"
+  Research: "pages/Research"
+  Team: "pages/Team"
   Resources: "pages/Resources"
-  Publications: "publications"
-  Contact: "contact"
+  Publications: "pages/Publications"
+  Contact: "pages/Contact"
 
 #This should mirror navbar-links (parents) and be a font-awesome icon
 navbar-icons:
