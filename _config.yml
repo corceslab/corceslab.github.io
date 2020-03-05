@@ -25,6 +25,13 @@ navbar-links:
   Resources: "resources"
   Publications: "publications"
 
+#This should mirror navbar-links (parents) and be a font-awesome icon
+navbar-icons:
+  Research: "fa fa-flask"
+  Team: "fa fa-flask"
+  Resources: "fa fa-flask"
+  Publications: "fa fa-flask"
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image

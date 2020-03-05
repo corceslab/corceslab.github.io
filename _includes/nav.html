@@ -32,6 +32,7 @@
       {%- for link in site.navbar-links -%}
         {%- if link[1].first %}
           <li class="navlinks-container">
+            <i class="fa fa-flask"></i>
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
               {%- for childlink in link[1] -%}
