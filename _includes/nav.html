@@ -45,11 +45,8 @@
             </div>
           </li>
         {% else %}
-          <li>
-            <span aria-hidden="true">
-              <i class="fa fa-flask"></i>
-            </span>  
-            <a href="{{ link[1] | relative_url }}">{{ link[0] }}</a>
+          <li> 
+            <a href="{{ link[1] | relative_url }}"> <span class="{{ site.navbar-icons[ forloop.index ] }}" aria-hidden="true"></span> {{ link[0] }}</a>
           </li>
         {%- endif -%}
       {%- endfor -%}
