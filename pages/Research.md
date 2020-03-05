@@ -1,2 +1,2 @@
-## Resources
+## Research
 ## Under construction
