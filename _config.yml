@@ -22,7 +22,7 @@ description: The Corces Lab @ The Gladstone Institutes / UCSF
 navbar-links:
   Research: "research"
   Team: "team"
-  Resources: "resources"
+  Resources: "pages/Resources"
   Publications: "publications"
   Contact: "contact"
 
