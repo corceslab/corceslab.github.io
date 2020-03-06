@@ -3503,7 +3503,10 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .container-fluid > .navbar-collapse {
   margin-right: -15px;
   margin-left: -15px;
+}
+.navbar-header {
   overflow-y: hidden;
+  height: 50px;
 }
 @media (min-width: 1130px) {
   .container > .navbar-header,
