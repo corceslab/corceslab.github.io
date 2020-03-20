@@ -4,7 +4,7 @@ title: Team
 subtitle: Corces Lab Members
 ---
 
-# **lab members**
+# **Lab Members**
 {% for person in site.data.LabMembers %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
