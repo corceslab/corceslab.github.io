@@ -1,0 +1,21 @@
+- name: Ryan Corces, PhD
+  image: /img/members/RyanCorces.jpg
+  altimage: /img/members/RyanCorces.jpg
+  position: Principal Investigator
+  email: ryan.corces (at) gladstone.ucsf.edu
+  scholar: GUctBkkAAAAJ
+  twitter: "doctorcorces"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Description!
+    '
+
+- name: We are hiring!
+  image: /img/CorcesLab_Brain_WhiteBackground.png
+  altimage: /img/CorcesLab_Brain_WhiteBackground.png
+  position: Research Technician / Graduate Student / Postdoctoral Fellow
+  email: your.e-mail (at) ucsf.edu
+#  scholar:
+  description: "Interested postdoctoral fellows should e-mail Ryan at ryan.corces (at) gladstone.usf.edu with the following information:
+  (i) a summary of their current and past research experiences, 
+  (ii) a short statement on the types of projects that they are interested in pursuing in the Corces Lab 
+  and (iii) contact information for 3 references. Interested and motivated Graduate and Undergraduate students should contact Ryan to talk about potential projects."
