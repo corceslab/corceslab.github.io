@@ -22,10 +22,10 @@ subtitle: Corces Lab Members
           <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
         {% endif %}
         {% if person.scholar %}
-          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"> Scholar Citations </a> <br>
+          <a href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="fa graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
         {% endif %}
         {% if person.twitter %}
-          <a href= "http://twitter.com/{{person.twitter}}"> @{{person.twitter}} </a> <br>
+          <a href= "http://twitter.com/{{person.twitter}}"><span class="fa twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8">
