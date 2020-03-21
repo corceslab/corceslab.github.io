@@ -1,2 +1,33 @@
-## Publications
-## Under construction
+---
+layout: gridlay
+title: Team
+subtitle: Corces Lab Members
+---
+
+# **Publications**
+For a complete list of publications see <a href="https://scholar.google.com/citations?user=GUctBkkAAAAJ">Google Scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=(Corces%20MR%5BAuthor%5D)%20OR%20Corces-Zimmerman%20MR%5BAuthor%5D">PubMed</a>.
+
+{% for pub in site.data.Publications %}
+<hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id = "{{pub.short}}" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-3">
+    	<img src="{{pub.image}}" alt="{{pub.title}}"><br>
+    </div>
+    <div class="col-sm-8">
+    	<strong>{{pub.title}}</strong> <br>
+    	<strong>{{pub.journal}} {{pub.year}}</strong> <br>
+    	<p class="text-justify">{{pub.authors | markdownify}}</p>
+        <p class="text-justify">{{pub.description | markdownify}}</p>
+        {% if pub.pubmed %}
+          <a href= "{{pub.pubmed}}">[pubmed]</a>
+        {% endif %}
+        {% if pub.pdf %}
+          <a href= "{{pub.pdf}}">[pdf]</a>
+        {% endif %}
+        {% if pub.journalLink %}
+          <a href= "{{pub.journalLink}}">[{{pub.journalShort}}]</a>
+        {% endif %}
+    </div>
+</div>
+{% endfor %}
