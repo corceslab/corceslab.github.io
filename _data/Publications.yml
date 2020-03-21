@@ -62,7 +62,7 @@ of reads mapping to the mitochondrial chromosome.'
   journalLink: https://www.nature.com/articles/ng.3646
   description: 'We define the chromatin accessibility and transcriptional landscapes in 13 human primary blood cell types that
   span the hematopoietic hierarchy. Exploiting the finding that the enhancer landscape better reflects cell identity than mRNA
-  levels, we enable 'enhancer cytometry' for enumeration of pure cell types from complex populations. We identify regulators
+  levels, we enable enhancer cytometry for enumeration of pure cell types from complex populations. We identify regulators
   governing hematopoietic differentiation and further show the lineage ontogeny of genetic elements linked to diverse human
   diseases. In acute myeloid leukemia (AML), chromatin accessibility uncovers unique regulatory evolution in cancer cells with
   a progressively increasing mutation burden. Single AML cells exhibit distinctive mixed regulome profiles corresponding to
