@@ -10,8 +10,8 @@
     '
 
 - name: We are hiring!
-  image: /img/members/NewMember.png
-  altimage: /img/members/NewMember.png
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
   position: Research Technician / Graduate Student / Postdoctoral Fellow
   email: your.e-mail (at) ucsf.edu
 #  scholar:

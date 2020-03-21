@@ -13,3 +13,24 @@
   such as BIN1 in microglia for Alzheimer’s disease (AD) and reveal novel gene-disease associations, such as STAB1 in microglia and MAL in
   oligodendrocytes for Parkinson’s disease (PD). This work greatly expands our understanding of inherited variation in AD and PD and provides
   a roadmap for the epigenomic dissection of noncoding regulatory variation in disease.'
+
+- title: The chromatin accessibility landscape of primary human cancers
+  image: /img/publications/2018_TCGA_ATAC.jpg
+  short: TCGA Cancer ATAC-seq
+  year: 2018
+  authors: '___Corces MR___*, Granja JM*, Shams S, Louie BH, Seoane JA, Zhou W, Silva TC, Groeneveld C, Wong CK, Cho SW, Satpathy AT, Mumbach MR, Hoadley KA, Robertson AG, Sheffield NC, Felau I, Castro MAA, Berman BP, Staudt LM, Zenklusen JC, Laird PW, Curtis C, The Cancer Genome Atlas Research Network, Greenleaf WJ†, Chang HY†'
+  pubmed: https://www.ncbi.nlm.nih.gov/pubmed/30361341
+  pdf: /pdfs/2018_Science_TCGA-ATAC.pdf
+  journal: Science
+  journalShort: Science
+  journalLink: https://science.sciencemag.org/content/362/6413/eaav1898.long
+  description: 'We present the genome-wide chromatin accessibility profiles of 410 tumor samples
+spanning 23 cancer types from The Cancer Genome Atlas (TCGA). We identify 562,709
+transposase-accessible DNA elements that substantially extend the compendium of known
+cis-regulatory elements. Integration of ATAC-seq with TCGA multi-omic data identifies a large number of
+putative distal enhancers that distinguish molecular subtypes of cancers and nominates long-range
+gene-regulatory interactions in cancer. Moreover, these data pinpoint noncoding mutations that
+drive enhancer activation and may affect patient survival. These results suggest a
+systematic approach to understanding the noncoding genome in disease to advance
+diagnosis and therapy.'
+
