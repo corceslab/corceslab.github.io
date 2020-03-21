@@ -10,8 +10,8 @@
     '
 
 - name: We are hiring!
-  image: /img/CorcesLab_Brain_WhiteBackground.png
-  altimage: /img/CorcesLab_Brain_WhiteBackground.png
+  image: /img/members/NewMember.png
+  altimage: /img/members/NewMember.png
   position: Research Technician / Graduate Student / Postdoctoral Fellow
   email: your.e-mail (at) ucsf.edu
 #  scholar:

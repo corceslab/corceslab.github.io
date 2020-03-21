@@ -8,4 +8,8 @@
   journal: biorxiv
   journalShort: biorxiv
   journalLink: https://www.biorxiv.org/content/10.1101/2020.01.06.896159v1.full
-  description: 'This is a description of the paper'
+  description: 'We develop a machine learning classifier to integrate multi-omic epigenetic data and predict dozens of functional SNPs,
+  nominating gene and cellular targets for previously orphaned GWAS loci. These predictions both inform well-studied disease-relevant genes,
+  such as BIN1 in microglia for Alzheimer’s disease (AD) and reveal novel gene-disease associations, such as STAB1 in microglia and MAL in
+  oligodendrocytes for Parkinson’s disease (PD). This work greatly expands our understanding of inherited variation in AD and PD and provides
+  a roadmap for the epigenomic dissection of noncoding regulatory variation in disease.'
