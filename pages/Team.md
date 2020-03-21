@@ -9,7 +9,7 @@ subtitle: Corces Lab Members
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
         {{person.position}} <br>
