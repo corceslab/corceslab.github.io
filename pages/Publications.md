@@ -1,7 +1,7 @@
 ---
 layout: gridlay
-title: Team
-subtitle: Corces Lab Members
+title: Publications
+subtitle: Corces Lab Publications
 ---
 
 # **Publications**
