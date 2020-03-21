@@ -25,14 +25,13 @@
   journalShort: Science
   journalLink: https://science.sciencemag.org/content/362/6413/eaav1898.long
   description: 'We present the genome-wide chromatin accessibility profiles of 410 tumor samples
-spanning 23 cancer types from The Cancer Genome Atlas (TCGA). We identify 562,709
-transposase-accessible DNA elements that substantially extend the compendium of known
-cis-regulatory elements. Integration of ATAC-seq with TCGA multi-omic data identifies a large number of
-putative distal enhancers that distinguish molecular subtypes of cancers and nominates long-range
-gene-regulatory interactions in cancer. Moreover, these data pinpoint noncoding mutations that
-drive enhancer activation and may affect patient survival. These results suggest a
-systematic approach to understanding the noncoding genome in disease to advance
-diagnosis and therapy.'
+  spanning 23 cancer types from The Cancer Genome Atlas (TCGA). We identify 562,709
+  transposase-accessible DNA elements that substantially extend the compendium of known
+  cis-regulatory elements. Integration of ATAC-seq with TCGA multi-omic data identifies a large number of
+  putative distal enhancers that distinguish molecular subtypes of cancers and nominates long-range
+  gene-regulatory interactions in cancer. Moreover, these data pinpoint noncoding mutations that
+  drive enhancer activation and may affect patient survival. These results suggest a
+  systematic approach to understanding the noncoding genome in disease to advance diagnosis and therapy.'
 
 - title: An improved ATAC-seq protocol reduces background and enables interrogation of frozen tissues
   image: /img/publications/2017_NatMethods_Omni-ATAC.jpg
@@ -45,10 +44,10 @@ diagnosis and therapy.'
   journalShort: Nature Methods
   journalLink: https://www.nature.com/articles/nmeth.4396
   description: 'We present Omni-ATAC, an improved ATAC-seq protocol for chromatin accessibility profiling that works across multiple
-applications with substantial improvement of signal-to-background ratio and information content. The Omni-ATAC
-protocol generates high-quality chromatin accessibility profiles from almost any starting material, from cell lines to archival
-frozen tissue samples and 50-µm sections. Moreover, Omni-ATAC saves money through fraction of reads in peaks and lower fraction
-of reads mapping to the mitochondrial chromosome.'
+  applications with substantial improvement of signal-to-background ratio and information content. The Omni-ATAC
+  protocol generates high-quality chromatin accessibility profiles from almost any starting material, from cell lines to archival
+  frozen tissue samples and 50-µm sections. Moreover, Omni-ATAC saves money through fraction of reads in peaks and lower fraction
+  of reads mapping to the mitochondrial chromosome.'
 
 - title: Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution
   image: /img/publications/2016_NatGen_Heme-AML.jpg
