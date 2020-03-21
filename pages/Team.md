@@ -29,7 +29,7 @@ subtitle: Corces Lab Members
         {% endif %}
     </div>
     <div class="col-sm-8">
-        <p class="text-justify"><sup>{{person.description | markdownify}}</sup></p>
+        <p class="text-justify">{{person.description | markdownify}}</p>
     </div>
 </div>
 {% endfor %}
