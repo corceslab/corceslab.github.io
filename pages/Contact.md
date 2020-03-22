@@ -9,7 +9,7 @@ subtitle: Corces Lab Contact
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<img src="img/GladstoneExterior.jpg" alt="Gladstone Institutes">
+    	<img src="/img/GladstoneExterior.jpg" alt="Gladstone Institutes">
     </div>
     <div class="col-sm-8">
         <p class="text-justify">The Corces Lab is located on the 4th floor of the Gladstone Institutes at 1650 Owens Street on the <b>UCSF Mission Bay Campus</b>.</p>
