@@ -18,10 +18,28 @@ subtitle: Corces Lab Resources
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<a href=""><img src="/img/resources/OmniATAC.jpg" alt="Omni-ATAC"></a>
+    	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28846090"><img src="/img/resources/OmniATAC.jpg" alt="Omni-ATAC"></a>
     </div>
     <div class="col-sm-8">
         <p class="text-justify"><b>Omni-ATAC</b> is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability. It works on every cell type that we have tested, from cell lines to flash frozen tissues. The original protocol can be found <a href="OmniATAC_Protocol.pdf">as Supplementary Protocol 1</a> of Corces et al. Nature Methods 2017 and an <b>updated protocol for nuclei isolation from frozen tissue</b> can be found <a href="https://www.protocols.io/view/isolation-of-nuclei-from-frozen-tissue-for-atac-se-6t8herw">on protocols.io</a>. Check out the <a href="">ArchR website</a> for more information.</p>
+    </div>
+</div>
+<hr>
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28846090"><img src="/img/resources/Brain-scATAC.jpg" alt="Human Brain scATAC-seq"></a>
+    </div>
+    <div class="col-sm-8">
+        <p class="text-justify"><b>Coming soon...</b>Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through <a href="">GEO</a>. We have also set up a WashU Epigenome Browser <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8">track hub of cell type-specific chromatin accessibility</a> as well as a HiGlass <a href="">track hub of all bulk ATAC-seq datasets from the publication</a>.</p>
+    </div>
+</div>
+<hr>
+<div class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30361341"><img src="/img/resources/TCGA-ATAC.jpg" alt="TCGA ATAC-seq"></a>
+    </div>
+    <div class="col-sm-8">
+        <p class="text-justify">Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the <a href="https://portal.gdc.cancer.gov/">Genomic Data Commons Data Portal</a> with approved access requested through <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8">dbGaP</a>. Select processed files including bigwigs, counts matrices, and cancer type-specific peak calls are available through the <a href="https://gdc.cancer.gov/about-data/publications/ATACseq-AWG">TCGA publication page</a>.</p>
     </div>
 </div>
 <hr>
