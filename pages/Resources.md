@@ -30,7 +30,7 @@ subtitle: Corces Lab Resources
     	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28846090"><img src="/img/resources/Brain-scATAC.jpg" alt="Human Brain scATAC-seq"></a>
     </div>
     <div class="col-sm-8">
-        <p class="text-justify"><b>Coming soon...</b>Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through <a href="">GEO</a>. We have also set up a WashU Epigenome Browser <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8">track hub of cell type-specific chromatin accessibility</a> as well as a HiGlass <a href="">track hub of all bulk ATAC-seq datasets from the publication</a>.</p>
+        <p class="text-justify"><b>Coming soon...</b>Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through <a href="">GEO</a>. This data comes from cognitively healthy individuals. We have also set up a WashU Epigenome Browser <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8">track hub of cell type-specific chromatin accessibility</a> as well as a HiGlass <a href="">track hub of all bulk ATAC-seq datasets from the publication</a>.</p>
     </div>
 </div>
 <hr>
