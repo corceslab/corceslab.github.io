@@ -10,7 +10,7 @@ subtitle: Corces Lab Resources
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{item.title}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
-    	<a href={{item.imageLink}}><img src={{item.image}} alt={{item.title}}></a>
+    	<a href="{{item.imageLink}}"><img src="{{item.image}}" alt="{{item.title}}"></a>
     </div>
     <div class="col-sm-8">
     	<p class="text-justify">{{item.description}}
