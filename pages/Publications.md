@@ -14,11 +14,11 @@ subtitle: Corces Lab Publications
     <div class="col-sm-3">
     	<img src="{{pub.image}}" alt="{{pub.title}}"><br>
     </div>
-    <div class="col-sm-8">
+    <div class="col-sm-8" style="text-align: justify">
     	<strong>{{pub.title}}</strong> <br>
     	<strong>{{pub.journal}} {{pub.year}}</strong> <br>
-    	<p class="text-justify">{{pub.authors | markdownify}}</p>
-        <p class="text-justify">{{pub.description | markdownify}}</p>
+    	{{pub.authors | markdownify}}
+        {{pub.description | markdownify}}
         {% if pub.pubmed %}
           <a href= "{{pub.pubmed}}">[pubmed]</a>
         {% endif %}

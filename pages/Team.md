@@ -28,8 +28,8 @@ subtitle: Corces Lab Members
           <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
     </div>
-    <div class="col-sm-8">
-        <p class="text-justify">{{person.description | markdownify}}</p>
+    <div class="col-sm-8" style="text-align: justify">
+        {{person.description | markdownify}}
     </div>
 </div>
 {% endfor %}

@@ -1,14 +1,14 @@
 - title: ArchR
   image: /img/resources/ArchR.jpg
   imageLink: https://greenleaflab.github.io/ArchR_Website/
-  description: '__Coming soon...__ __ArchR__ is a rapid and robust analytical platform for massive-scale single-cell chromatin accessibility data.
+  description: '__Coming soon...__ ArchR is a rapid and robust analytical platform for massive-scale single-cell chromatin accessibility data.
   It out performs other currently available software in memory usage, compute time, and analytical performance. Check out the
   [ArchR website](https://greenleaflab.github.io/ArchR_Website/) for more information.'
 
 - title: Omni-ATAC
   image: /img/resources/OmniATAC.jpg
   imageLink: https://www.ncbi.nlm.nih.gov/pubmed/28846090
-  description: '__Omni-ATAC__ is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability.
+  description: 'Omni-ATAC is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability.
   It works on every cell type that we have tested, from cell lines to flash frozen tissues. The original protocol can be found as
   [Supplementary Protocol 1](/pdfs/OmniATAC_Protocol.pdf) of Corces et al. Nature Methods 2017 and an __updated protocol for nuclei
   isolation from frozen tissue__ can be found [on protocols.io](https://www.protocols.io/view/isolation-of-nuclei-from-frozen-tissue-for-atac-se-6t8herw).'
