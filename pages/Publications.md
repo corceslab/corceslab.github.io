@@ -5,7 +5,7 @@ subtitle: Corces Lab Publications
 ---
 
 # **Publications**
-For a complete list of publications see <a href="https://scholar.google.com/citations?user=GUctBkkAAAAJ">Google Scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=(Corces%20MR%5BAuthor%5D)%20OR%20Corces-Zimmerman%20MR%5BAuthor%5D">PubMed</a>.
+#### For a complete list of publications see <a href="https://scholar.google.com/citations?user=GUctBkkAAAAJ">Google Scholar</a> or <a href="https://www.ncbi.nlm.nih.gov/pubmed?term=(Corces%20MR%5BAuthor%5D)%20OR%20Corces-Zimmerman%20MR%5BAuthor%5D">PubMed</a>.
 
 {% for pub in site.data.Publications %}
 <hr>
