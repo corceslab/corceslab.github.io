@@ -1,7 +1,7 @@
 - title: ArchR
-  image: /img/resources/ArchR.png
+  image: /img/resources/ArchR.jpg
   imageLink: https://greenleaflab.github.io/ArchR_Website/
-  description: '__Coming soon...__ ArchR is a rapid and robust analytical platform for massive-scale single-cell chromatin accessibility data.
+  description: '__Coming soon...__ __ArchR__ is a rapid and robust analytical platform for massive-scale single-cell chromatin accessibility data.
   It out performs other currently available software in memory usage, compute time, and analytical performance. Check out the
   [ArchR website](https://greenleaflab.github.io/ArchR_Website/) for more information.'
 
@@ -18,7 +18,7 @@
   imageLink: https://www.biorxiv.org/content/10.1101/2020.01.06.896159v1.full
   description: '__Coming soon...__ Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through
   [GEO](). This data comes from cognitively healthy individuals. We have also set up a WashU Epigenome Browser
-  [track hub of cell type-specific chromatin accessibility](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8) as well
+  [track hub of cell type-specific chromatin accessibility]() as well
   as a HiGlass [track hub of all bulk ATAC-seq datasets from the publication]().'
 
 - title: TCGA ATAC-seq
@@ -26,5 +26,5 @@
   imageLink: https://www.ncbi.nlm.nih.gov/pubmed/30361341
   description: 'Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the
   [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/) with approved access requested through
-  [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8)". Select processed files including bigwigs,
+  [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8). Select processed files including bigwigs,
   counts matrices, and cancer type-specific peak calls are available through the [TCGA publication page](https://gdc.cancer.gov/about-data/publications/ATACseq-AWG).'
