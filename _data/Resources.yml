@@ -1,0 +1,30 @@
+- title: ArchR
+  image: /img/resources/ArchR.png
+  imageLink: 
+  description: '__Coming soon...__ ArchR is a rapid and robust analytical platform for massive-scale single-cell chromatin accessibility data.
+  It out performs other currently available software in memory usage, compute time, and analytical performance. Check out the [ArchR website]()
+  for more information.'
+
+- title: Omni-ATAC
+  image: /img/resources/OmniATAC.jpg
+  imageLink: https://www.ncbi.nlm.nih.gov/pubmed/28846090
+  description: '__Omni-ATAC__ is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability.
+  It works on every cell type that we have tested, from cell lines to flash frozen tissues. The original protocol can be found as
+  [Supplementary Protocol 1](/pdfs/OmniATAC_Protocol.pdf) of Corces et al. Nature Methods 2017 and an __updated protocol for nuclei
+  isolation from frozen tissue__ can be found [on protocols.io](https://www.protocols.io/view/isolation-of-nuclei-from-frozen-tissue-for-atac-se-6t8herw).'
+
+- title: Human Brain scATAC-seq
+  image: /img/resources/Brain-scATAC.jpg
+  imageLink: 
+  description: '__Coming soon...__Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through
+  [GEO](). This data comes from cognitively healthy individuals. We have also set up a WashU Epigenome Browser
+  [track hub of cell type-specific chromatin accessibility](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8) as well
+  as a HiGlass [track hub of all bulk ATAC-seq datasets from the publication]().'
+
+- title: TCGA ATAC-seq
+  image: /img/resources/TCGA-ATAC.jpg
+  imageLink: https://www.ncbi.nlm.nih.gov/pubmed/30361341
+  description: 'Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the
+  [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/) with approved access requested through
+  [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8)". Select processed files including bigwigs,
+  counts matrices, and cancer type-specific peak calls are available through the [TCGA publication page](https://gdc.cancer.gov/about-data/publications/ATACseq-AWG).'
