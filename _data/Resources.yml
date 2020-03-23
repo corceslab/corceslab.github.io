@@ -16,7 +16,7 @@
 - title: Human Brain scATAC-seq
   image: /img/resources/Brain-scATAC.jpg
   imageLink: https://www.biorxiv.org/content/10.1101/2020.01.06.896159v1.full
-  description: '__Coming soon...__Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through
+  description: '__Coming soon...__ Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through
   [GEO](). This data comes from cognitively healthy individuals. We have also set up a WashU Epigenome Browser
   [track hub of cell type-specific chromatin accessibility](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8) as well
   as a HiGlass [track hub of all bulk ATAC-seq datasets from the publication]().'
