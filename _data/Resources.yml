@@ -24,9 +24,7 @@
 - title: TCGA ATAC-seq
   image: /img/resources/TCGA-ATAC.jpg
   imageLink: https://www.ncbi.nlm.nih.gov/pubmed/30361341
-  description: '#### TCGA ATAC-seq
-
-  Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the
+  description: 'Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the
   [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov/) with approved access requested through
   [dbGaP](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8). Select processed files including bigwigs,
   counts matrices, and cancer type-specific peak calls are available through the [TCGA publication page](https://gdc.cancer.gov/about-data/publications/ATACseq-AWG).'

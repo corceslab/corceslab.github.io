@@ -13,6 +13,7 @@ subtitle: Corces Lab Resources
     	<a href="{{item.imageLink}}"><img src="{{item.image}}" alt="{{item.title}}"></a>
     </div>
     <div class="col-sm-8">
+    	<h5>{{item.title}}</h5>
     	<p class="text-justify">{{item.description| markdownify}}</p>
     </div>
 </div>
