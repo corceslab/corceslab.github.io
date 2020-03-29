@@ -4,7 +4,11 @@ title: Research
 subtitle: Corces Lab Research
 ---
 
-# **Resources**
+<div align="center">
+	<h1>
+		<strong>Research in the Corces Lab</strong>
+	</h1>
+</div>
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div class="container">
@@ -34,6 +38,7 @@ subtitle: Corces Lab Research
     	</p>
     </div>
 </div>
+<hr>
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h5>Selective Vulnerability in AD</h5>
@@ -44,4 +49,24 @@ subtitle: Corces Lab Research
     <div class="col-sm-4">
     	<img src="" alt="Selective Vulnerability in AD">
     </div>
+</div>
+<div id = "Inherited Variaion in AD" class="row" style="padding-top: 60px; margin-top: -60px;">
+	<div class="col-sm-4">
+    	<img src="" alt="Inherited Variaion in AD">
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>The role of inherited genetic variation in AD</h5>
+    	<p>
+    		Through decades of research, genome-wide association studies have identified heritable mutations that lead to an increased risk of developing AD. The vast majority (>95%) of these mutations occur in noncoding regions of the genome, making their functions difficult to predict. As such, many of these mutations remain under-characterized and their contribution to AD pathogenesis remains unclear. Moreover, it has become increasingly clear that an individual’s lifetime risk of developing AD is not merely governed by genetics. In addition, the epigenome, the complement of all of the chemical and physical modifications imposed on DNA that do not change the underlying sequence, is also thought to play a crucial role. We aim to define the epigenetic and genetic components of AD through profiling of the open chromatin landscapes and three-dimensional chromatin interactions in brain regions and primary cell types of patients with and without AD. We have integrated machine learning and single-cell epigenomics to predict functionality of many of these polymorphisms. Layering on single-cell transcriptomics, massively parallel reporter assays, and CRISPR-based perturbation of regulatory elements, we hope to uncover the mechanisms behind AD-associated genetic variation with the ultimate goal of identifying novel aspects of AD pathogenesis and nominating putative avenues for therapeutic intervention.
+    	</p>
+    </div>
+</div>
+
+<hr>
+
+<div id="Parkinson’s Disease" class="col-sm-12">
+		<h3>Parkinson’s Disease</h3>
+		<p>
+			The Corces Lab is also broadly interested in other neurodegenerative diseases including Parkinson’s disease (PD). PD is a progressive long-term neurodegenerative disorder that is classically associated with effects on the motor system (tremors, muscle rigidity, bradykinesia etc.). The primary cellular cause of these symptoms is the loss of dopamine-secreting neurons in the substantia nigra. Similar to the pathologic accumulations in AD, PD is characterized by the accumulation of alpha-synuclein protein in Lewy bodies. Many of the same questions and techniques that we apply to AD are also being applied to PD. We are particularly interested in the inherited genetic contributions to PD as our understanding of this remains much less mature.
+		</p>
 </div>
