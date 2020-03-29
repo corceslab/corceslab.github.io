@@ -1,2 +1,47 @@
-## Research
-## Under construction
+---
+layout: gridlay
+title: Research
+subtitle: Corces Lab Research
+---
+
+# **Resources**
+<hr>
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div class="container">
+  <div class="jumbotron jumbotron-correct">
+      <p>
+        The <b>Corces Lab</b> studies the gene-regulatory underpinnings of neurodegenerative disease. We utilize broad epigenomic and transcriptomic profiling of primary disease tissue to generate hypothesis about the cell types and molecular mechanisms driving neurodegeneration. We then test these hypotheses using in vitro and murine model systems through large-scale screens (CRISPR / MPRA) and targeted molecular perturbation.
+      </p>
+  </div>
+</div>
+
+<hr>
+
+<div id="Alzheimer's Disease" class="col-sm-12">
+		<h3>Alzheimer's Disease</h3>
+		<p>
+			Alzheimer’s disease (AD) manifests as a devastating age-related progressive neurodegeneration and has become the third most common cause of mortality in the United States. The concomitant loss of cognitive function plagues more than 44 million individuals worldwide, marking AD as a looming public health crisis. To date, no approved therapies exist for the prevention or cure of AD, highlighting a crucial unmet clinical need. In the Corces lab, we aim to identify novel aspects of AD pathogenesis and nominate candidate avenues for therapeutic intervention through an in-depth understanding of cell type- and disease-specific biology.
+		</p>
+</div>
+<div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<img src="" alt="Pathologic Resilience in AD">
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>Pathologic Resilience in AD</h5>
+    	<p>
+    		AD is associated with the accumulation of beta-amyloid into plaques and hyperphosphorylated tau into neurofibrillary tangles. Though the precise mechanisms are still debated, these two pathologic changes are widely regarded as drivers of neuronal dysfunction and subsequent cognitive decline. In most cases, the burden of AD-related pathology correlates with the degree of cognitive decline. However, some individuals appear to be resilient to increased AD-related pathology, maintaining unperturbed cognitive function for years. We are interested in understanding (i) if this resilient state truly exists or if these individuals would eventually develop AD-related cognitive impairment, and (ii) if resilience truly exists, how is this resilience genetically and epigenetically encoded. Ultimately, we hope to identify how certain individuals of advanced age avoid cognitive decline and use this understanding to increase resilience across more vulnerable patients.
+    	</p>
+    </div>
+</div>
+<div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>Selective Vulnerability in AD</h5>
+    	<p>
+    		In addition to the cognitive resilience to pathology mentioned above, AD is also characterized by “selective vulnerability” – the disease only affects particular neurons and exhibits consistent differential effects on different brain regions. Moreover, this selective vulnerability exists across multiple diverse neurodegenerative diseases, though the neuronal types affected by the pathology differ across diseases. In most cases, the cells that accumulate the pathology-associated proteins are the cells that are most affected. However, many examples exist of neuronal cell types that accumulate pathology but remain relatively unaffected. Some studies indicate that this is a cell-autonomous property of the cells, implicated specific gene expression patterns in the selectivity of pathologic vulnerability. We are using single-cell approaches to characterize cell type- and brain region-specific differences to identify putative mechanisms underlying this selective vulnerability. 
+    	</p>
+    </div>
+    <div class="col-sm-4">
+    	<img src="" alt="Selective Vulnerability in AD">
+    </div>
+</div>
