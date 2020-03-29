@@ -27,8 +27,9 @@ subtitle: Corces Lab Research
 			Alzheimer’s disease (AD) manifests as a devastating age-related progressive neurodegeneration and has become the third most common cause of mortality in the United States. The concomitant loss of cognitive function plagues more than 44 million individuals worldwide, marking AD as a looming public health crisis. To date, no approved therapies exist for the prevention or cure of AD, highlighting a crucial unmet clinical need. In the Corces lab, we aim to identify novel aspects of AD pathogenesis and nominate candidate avenues for therapeutic intervention through an in-depth understanding of cell type- and disease-specific biology.
 		</p>
 </div>
-
-<hr>
+<div id="break" class="col-sm-12">
+	<hr>
+</div>
 
 <div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
@@ -41,6 +42,7 @@ subtitle: Corces Lab Research
     	</p>
     </div>
 </div>
+<hr>
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h5>Selective Vulnerability in AD</h5>
@@ -52,6 +54,7 @@ subtitle: Corces Lab Research
     	<img src="/img/research/SelectiveVulnerability.jpg" alt="Selective Vulnerability in AD">
     </div>
 </div>
+<hr>
 <div id = "Inherited Variaion in AD" class="row" style="padding-top: 60px; margin-top: -60px;">
 	<div class="col-sm-4">
     	<img src="/img/research/GWAS.jpg" alt="Inherited Variaion in AD">
