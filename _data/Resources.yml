@@ -1,3 +1,12 @@
+- title: ArchR
+  image: /img/resources/ArchR.jpg
+  imageLink: https://www.archrproject.com/
+  description: 'ArchR is a full-featured R package for processing and analyzing single-cell ATAC-seq data.
+  ArchR provides the most extensive suite of scATAC-seq analysis tools of any software available. Additionally,
+  ArchR excels in both speed and resource usage, making it possible to analyze 1 million cells in 8 hours on a MacBook Pro laptop.
+  ArchR is currently in beta. You can find everything you need on our [website](https://www.archrproject.com/)
+  or in the [publication](https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1).'
+
 - title: Omni-ATAC
   image: /img/resources/OmniATAC.jpg
   imageLink: https://www.ncbi.nlm.nih.gov/pubmed/28846090
