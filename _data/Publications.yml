@@ -1,3 +1,19 @@
+- title: ArchR - An integrative and scalable software package for single-cell chromatin accessibility analysis
+  image: /img/publications/2020_NatMethods_ArchR.jpg
+  short: scATAC-seq analysis at scale
+  year: 2020
+  authors: 'Granja JM*, ___Corces MR*___, Pierce SE, Bagdatli ST, Chang HY†, Greenleaf WJ†'
+  pubmed: 
+  pdf: /pdfs/200504_ArchR_Biorxiv.pdf
+  journal: biorxiv
+  journalShort: biorxiv
+  journalLink: https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1
+  description: 'The advent of large-scale single-cell chromatin accessibility profiling has accelerated our ability to map gene regulatory landscapes,
+  but has outpaced the development of robust, scalable software to rapidly extract biological meaning from these data. Here we present a software
+  suite for single-cell analysis of regulatory chromatin in R (ArchR; [www.ArchRProject.com](www.ArchRProject.com)) that enables fast and comprehensive
+  analysis of single-cell chromatin accessibility data. ArchR provides an intuitive, user-focused interface for complex single-cell analyses enabling
+  the analysis of over 1.2 million single cells within 8 hours on a standard Unix laptop.'
+
 - title: Single-cell epigenomic identification of inherited risk loci in Alzheimer’s and Parkinson’s disease
   image: /img/publications/2019_NatGen_ADPD-GWAS.jpg
   short: Single-cell epigenomic dissection of neurodegeneration GWAS
