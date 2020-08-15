@@ -14,7 +14,7 @@ subtitle: Corces Lab Research
 <div class="container">
   <div class="jumbotron jumbotron-correct">
       <p>
-        The <b>Corces Lab</b> studies the gene-regulatory underpinnings of neurodegenerative disease. We utilize broad epigenomic and transcriptomic profiling of primary disease tissue to generate hypothesis about the cell types and molecular mechanisms driving neurodegeneration. We then test these hypotheses using in vitro and murine model systems through large-scale screens (CRISPR / MPRA) and targeted molecular perturbation.
+        The <b>Corces Lab</b> studies the gene-regulatory underpinnings of neurodegenerative disease. We utilize broad epigenomic and transcriptomic profiling of primary disease tissue to generate hypotheses about the cell types and molecular mechanisms driving neurodegeneration. We then test these hypotheses using in vitro and murine model systems through large-scale screens (CRISPR / MPRA) and targeted molecular perturbation.
       </p>
   </div>
 </div>
