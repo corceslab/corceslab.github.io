@@ -43,14 +43,17 @@
   technologies to understand how the epigenome shapes cell fate, and specifically how it can store information about environmental conditions like chronic
   inflammation that cause disease. Now, I''m combing these two interests to study mechanisms of resilience to AD in the Corces lab.'
   
-# - name: Lucas Kampman
-#   image: /img/members/NewMember.jpg
-#   altimage: /img/members/NewMember.jpg
-#   position: Research Associate
-#   email: lucas.kampman (at) gladstone.ucsf.edu
-# #  scholar:
-# #  twitter: ""
-#   description: ""
+- name: Lucas Kampman
+  image: /img/members/LucasKampman.jpg
+  altimage: /img/members/LucasKampman.jpg
+  position: Research Associate
+  email: lucas.kampman (at) gladstone.ucsf.edu
+#  scholar:
+#  twitter: ""
+  description: 'I grew up in the Bay Area and studied Molecular & Cell Biology and German at the University of California, Berkeley. My introduction
+ to biology research was in Oskar Hallatschek''s lab, where I worked with Dr. Jona Kayser on recombination-based tools for studying mechanical effects
+ in microbial evolution. Since then, I''ve studied transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and
+ the ecology of benthic cyanobacterial mats. I''m broadly interested in the way evolutionary processes have shaped mechanisms for gene regulation.'
 
 - name: Hailey Modi
   image: /img/members/HaileyModi.jpg
