@@ -62,9 +62,14 @@
   email: hailey.modi (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
-  description: ""
+  description: 'From a young age, I was always interested in science, especially the science behind different diseases. I majored in Biomedical
+  Engineering at The University of Texas at Austin to learn more about the real-world applications of scientific and medical research. At UT, I joined
+  Dr. Aaron Baker''s lab and studied nerve damage after traumatic injury. There, I helped engineer and test neural microelectrodes, and I also published
+  an undergraduate thesis on drug delivery methods that could speed up nerve regrowth. Now, in the Corces lab, I work on neurodegeneration in a different
+  context as it relates to the epigenetics of neurodegenerative diseases, like Alzheimer''s and Parkinson''s. My research experience has ignited in me a
+  fascination with the brain, and I aim to join a neuroscience PhD program in the future.'
 
-- name: We are hiring!
+- name: We are recruiting!
   image: /img/members/NewMember.jpg
   altimage: /img/members/NewMember.jpg
   position: Research Technician / Graduate Student / Postdoctoral Fellow
