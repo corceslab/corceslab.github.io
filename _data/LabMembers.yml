@@ -6,7 +6,7 @@
   scholar: GUctBkkAAAAJ
   twitter: "doctorcorces"
 # orcid: "orcid.org/0000-0003-3345-5960"
-  description: 'I graduated from Princeton University in 2008 with a major in Molecular Biology and a minor in Computer Science. While at Princeton,
+  description: "I graduated from Princeton University in 2008 with a major in Molecular Biology and a minor in Computer Science. While at Princeton,
   I worked under the mentorship of [Coleen Murphy](https://murphylab.princeton.edu/), studying *C. elegans* aging. During the summers I had relatively foundational scientific experiences
   studying learning and memory (with [Cristina Alberini](http://alberinilab.org/)), and epigenetics (with [Or Gozani](https://gozani-lab-website.github.io/website/index.html)).
 
@@ -24,8 +24,8 @@
 
 
   At about the half-way point of my postdoctoral work, I switched gears to study the genetic and epigenetic underpinnings of neurodegenerative diseases. Co-mentored by
-  [Thomas Montine](https://www.montinelab.com/index.html), I used multi-omic epigenetic approaches to dissect the role of inherited variation in Alzheimer''s and Parkinson''s
-  disease. This work serves as the launching point of the lab, driving our interest in using the epigenome to better understand neurological disease.'
+  [Thomas Montine](https://www.montinelab.com/index.html), I used multi-omic epigenetic approaches to dissect the role of inherited variation in Alzheimer's and Parkinson's
+  disease. This work serves as the launching point of the lab, driving our interest in using the epigenome to better understand neurological disease."
 
 - name: Fiorella Grandi, PhD
   image: /img/members/FiorellaGrandi.jpg
@@ -34,14 +34,14 @@
   email: fiorella.grandi (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
-  description: 'I grew up in Idaho, born to Argentinian parents. After falling in love with biology late in high school thanks to Campbell Biology''s
-  Tour of the Cell chapter, I went to Washington State University (WSU) to pursue a bachelor''s in biochemistry. While at WSU, I fell in love with
+  description: "I grew up in Idaho, born to Argentinian parents. After falling in love with biology late in high school thanks to Campbell Biology's
+  Tour of the Cell chapter, I went to Washington State University (WSU) to pursue a bachelor's in biochemistry. While at WSU, I fell in love with
   genome regulation while working on transposable elements and the variety of ways they create genomic and epigenetic variation.  In 2014, I graduated
   and went on to pursue a Ph.D. at Stanford University in the lab of Nidhi Bhutani. There, I studied DNA methylation, specifically the regulation of
   5-hydroxymethylcytosine dynamics by the TET family of enzymes in the context of skeletal development and disease, including dissecting the relationship
   between 5hmC deposition and SOX9 transcription factor activity.  During graduate school, I also became interested in pursuing the use of single-cell
   technologies to understand how the epigenome shapes cell fate, and specifically how it can store information about environmental conditions like chronic
-  inflammation that cause disease. Now, I''m combing these two interests to study mechanisms of resilience to AD in the Corces lab.'
+  inflammation that cause disease. Now, I'm combing these two interests to study mechanisms of resilience to AD in the Corces lab."
   
 - name: Lucas Kampman
   image: /img/members/LucasKampman.jpg
@@ -50,10 +50,20 @@
   email: lucas.kampman (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
-  description: 'I grew up in the Bay Area and studied Molecular & Cell Biology and German at the University of California, Berkeley. My introduction
- to biology research was in Oskar Hallatschek''s lab, where I worked with Dr. Jona Kayser on recombination-based tools for studying mechanical effects
- in microbial evolution. Since then, I''ve studied transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and
- the ecology of benthic cyanobacterial mats. I''m broadly interested in the way evolutionary processes have shaped mechanisms for gene regulation.'
+  description: "I grew up in the Bay Area and studied Molecular & Cell Biology and German at the University of California, Berkeley. My introduction
+ to biology research was in Oskar Hallatschek's lab, where I worked with Dr. Jona Kayser on recombination-based tools for studying mechanical effects
+ in microbial evolution. Since then, I'e studied transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and
+ the ecology of benthic cyanobacterial mats. I'm broadly interested in the way evolutionary processes have shaped mechanisms for gene regulation."
+
+- name: Soumya Kundu
+  image: /img/members/SoumyaKundu.jpg
+  altimage: /img/members/SoumyaKundu.jpg
+  position: Stanford PhD Student (Computer Science)
+  advisor: Primary Advisor - Anshul Kundaje
+  email: soumya.kundu (at) stanford.edu
+  scholar: Pgy1uHcAAAAJ
+  twitter: "soumyakundu_"
+  description: "..."
 
 - name: Hailey Modi
   image: /img/members/HaileyModi.jpg
@@ -72,7 +82,7 @@
 - name: Cathrine Petersen
   image: /img/members/CathrinePetersen.jpg
   altimage: /img/members/CathrinePetersen.jpg
-  position: PhD Student (Neuroscience)
+  position: UCSF PhD Student (Neuroscience)
   advisor: Primary Advisor - Lennart Mucke
   email: cathrine.petersen (at) gladstone.ucsf.edu
   scholar: EtTtF5wAAAAJ
@@ -91,10 +101,10 @@
   email: sean.dailey (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
-  description: 'I was born and raised in Pennsylvania. I graduated from The Pennsylvania State University in 2019 with a major in Microbiology and a
+  description: "I was born and raised in Pennsylvania. I graduated from The Pennsylvania State University in 2019 with a major in Microbiology and a
   minor in Biochemistry and Molecular Biology. While at Penn State, I worked as a medical scribe in the emergency department. There I frequently saw
   patients with chronic illnesses, including neurodegenerative diseases, which I found most interesting to study. From there, I joined the Corces Lab
-  as an administrative assistant, where I use my organizational skills to help in neurodegenerative disease research.'
+  as an administrative assistant, where I use my organizational skills to help in neurodegenerative disease research."
 
 - name: We are recruiting!
   image: /img/members/NewMember.jpg
