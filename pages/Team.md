@@ -31,7 +31,7 @@ subtitle: Corces Lab Members
           <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.website %}
-          <a href= "{{person.website}}"><span class="fab fa-blog" aria-hidden="true"></span> {{person.twitter}} </a> <br>
+          <a href= "{{person.website}}"><span class="fas fa-blog" aria-hidden="true"></span> {{person.website}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8" style="text-align: justify">
