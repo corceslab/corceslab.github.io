@@ -46,7 +46,7 @@
 - name: Lucas Kampman
   image: /img/members/LucasKampman.jpg
   altimage: /img/members/LucasKampman.jpg
-  position: Research Associate
+  position: Staff Research Associate
   email: lucas.kampman (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
@@ -74,7 +74,7 @@
 - name: Hailey Modi
   image: /img/members/HaileyModi.jpg
   altimage: /img/members/HaileyModi.jpg
-  position: Research Associate
+  position: Staff Research Associate
   email: hailey.modi (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
@@ -84,6 +84,20 @@
   an undergraduate thesis on drug delivery methods that could speed up nerve regrowth. Now, in the Corces lab, I work on neurodegeneration in a different
   context as it relates to the epigenetics of neurodegenerative diseases, like Alzheimer's and Parkinson's. My research experience has ignited in me a
   fascination with the brain, and I aim to join a neuroscience PhD program in the future."
+
+- name: Paulina Paiz
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: PROPEL Scholar and Staff Research Associate
+  email: paulina.paiz (at) gladstone.ucsf.edu
+#  scholar: 
+  twitter: "paulinapaiz02"
+  website: "http://pau-paiz.com/"
+  description: "I grew up in Central America and studied Computational Neuroscience at the University of Pennsylvania. There, I conducted research on
+  memory retention and network science. After graduating, I grew brain and lung organoids to study SARS-CoV-2 infection patterns at Rockefeller
+  University. Most recently, I was an Aging R&D intern at Loyal and a data analyst at Octant Bio. At the Corces Lab, I will be uncovering allelic
+  imbalance in single-cell chromatin accessibility data and facilitating analysis and sharing of snATAC-seq data through development of ArchR and creation
+  of flexible online data portals. Outside of lab, I enjoy playing tennis, road biking, and practicing French."
 
 - name: Cathrine Petersen
   image: /img/members/CathrinePetersen.jpg
