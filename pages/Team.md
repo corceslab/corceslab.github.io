@@ -17,9 +17,6 @@ subtitle: Corces Lab Members
            {{person.advisor}}<br>
         {% endif %}
         <em>{{person.email}}</em> <br>
-        {% if person.website %}
-          <a href= "{{person.website}}">{{person.website}}</a> <br>
-        {% endif %}
         {% if person.orcid %}
           <a href="http://orcid.org"><img class="inline-block" src="/static/img/orcid_logo.png"></a>
           <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
@@ -31,7 +28,7 @@ subtitle: Corces Lab Members
           <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
         {% if person.website %}
-          <a href= "{{person.website}}"><span class="fas fa-blog" aria-hidden="true"></span> {{person.website}} </a> <br>
+          <a href= "{{person.website}}"><span class="fa fa-blog" aria-hidden="true"></span> {{person.website}} </a> <br>
         {% endif %}
     </div>
     <div class="col-sm-8" style="text-align: justify">
