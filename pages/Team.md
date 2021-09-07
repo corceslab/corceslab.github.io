@@ -17,15 +17,11 @@ subtitle: Corces Lab Members
            {{person.advisor}}<br>
         {% endif %}
         <em>{{person.email}}</em> <br>
-        {% if person.orcid %}
-          <a href="http://orcid.org"><img class="inline-block" src="/static/img/orcid_logo.png"></a>
-          <a href="http://{{person.orcid}}"> {{person.orcid}}</a> <br>
-        {% endif %}
         {% if person.scholar %}
           <a href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
         {% endif %}
         {% if person.orcid %}
-          <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> {{person.orcid}} </a> <br>
+          <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> ORCID </a> <br>
         {% endif %}
         {% if person.twitter %}
           <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
