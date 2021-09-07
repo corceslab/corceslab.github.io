@@ -24,6 +24,9 @@ subtitle: Corces Lab Members
         {% if person.scholar %}
           <a href= "http://scholar.google.com/citations?user={{person.scholar}}"><span class="fa fa-graduation-cap" aria-hidden="true"></span> Google Scholar </a> <br>
         {% endif %}
+        {% if person.orcid %}
+          <a href= "https://orcid.org/{{person.orcid}}"><span class="fa fa-book" aria-hidden="true"></span> {{person.orcid}} </a> <br>
+        {% endif %}
         {% if person.twitter %}
           <a href= "http://twitter.com/{{person.twitter}}"><span class="fab fa-twitter" aria-hidden="true"></span> @{{person.twitter}} </a> <br>
         {% endif %}
