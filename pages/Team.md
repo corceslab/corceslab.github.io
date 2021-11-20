@@ -6,7 +6,7 @@ subtitle: Corces Lab Members
 
 <div class="clear"></div>
 
-<div class="container">
+<div class="container" style="margin-top:-50px">
   <div class="jumbotron jumbotron-correct">
       <img src="/img/fun/Corces_Lab_UMAP_small.png" alt="The Corces Lab @ The Gladstone Institute For Neurological Disease"><br>
       <h3 style="text-align:center"> Welcome to the Corces Lab!</h3>
