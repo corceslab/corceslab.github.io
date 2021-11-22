@@ -24,6 +24,9 @@ subtitle: Corces Lab Members
     <div class="col-sm-3">
         <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
+        {% if person.pronouns %}
+           <em>{{person.pronouns}}</em> <br>
+        {% endif %}
         {{person.position}} <br>
         {% if person.advisor %}
            {{person.advisor}}<br>
