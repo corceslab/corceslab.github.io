@@ -85,7 +85,7 @@
 - name: Lucas Kampman
   image: /img/members/LucasKampman.jpg
   altimage: /img/members/LucasKampman.jpg
-#  pronouns: 
+  pronouns: he/him/his
   position: Staff Research Associate
   email: lucas.kampman (at) gladstone.ucsf.edu
 #  scholar:
@@ -98,7 +98,7 @@
 - name: Soumya Kundu
   image: /img/members/SoumyaKundu.jpg
   altimage: /img/members/SoumyaKundu.jpg
-#  pronouns: 
+  pronouns: he/him/his
   position: Stanford PhD Student (CS)
   advisor: Primary Advisor - Anshul Kundaje
   email: soumya.kundu (at) stanford.edu
@@ -111,6 +111,22 @@
   in 2018, I started my PhD in computer science at Stanford, where I am advised by Anshul Kundaje. Currently, I am working on using machine learning
   to identify cell type-specific functional non-coding variants that impact neurodegenerative diseases, and I am collaborating with the Corces Lab to
   validate our findings using high-throughput experiments."
+
+- name: Alex Lan
+  image: /img/members/AlexLan.jpg
+  altimage: /img/members/AlexLan.jpg
+  #pronouns: he/him/his
+  position: High School Student
+  email: alex.lan (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: 
+  description: "I am a high school student at The Harker School in San Jose, California. Growing up in the Bay Area, I was exposed to computer science
+  at an early age through competitions, courses, and events all around me. My introduction to neurodegenerative diseases came later at the start of
+  high school, when I wrote an essay with Dr. Peter Tass on vibrotactile coordinated reset neuromodulation, his novel, non-intrusive treatment for
+  Parkinson's Disease. Following that experience, I spent two years researching and developing an audiovisual emotion classification platform powered
+  by deep neural networks to help individuals with autism. Now, as part of the Corces Lab, I'm combining my interests in machine learning and
+  neurological diseases to predict the effect of non-coding variants in Alzheimer's Disease and create a tool for researchers to test their own
+  variants of interest. Outside of the lab, I enjoy filmmaking, graphics design, hip-hop dance, and debate."
 
 - name: Hailey Modi
   image: /img/members/HaileyModi.jpg
@@ -145,7 +161,7 @@
 - name: Cathrine Petersen
   image: /img/members/CathrinePetersen.jpg
   altimage: /img/members/CathrinePetersen.jpg
-#  pronouns: 
+  pronouns: she/her/hers
   position: UCSF PhD Student (Neuroscience)
   advisor: Primary Advisor - Lennart Mucke
   email: cathrine.petersen (at) gladstone.ucsf.edu
