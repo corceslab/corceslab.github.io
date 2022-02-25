@@ -174,6 +174,21 @@
   a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
   cognitive decline and neural network dysfunction in Alzheimer’s disease, co-advised by Lennart Mucke and Ryan Corces."
 
+- name: Adam Turner
+  image: /img/members/AdamTurner.jpg
+  altimage: /img/members/AdamTurner.jpg
+ # pronouns: he/him/his
+  position: Project Manager
+  email: adam.turner (at) gladstone.ucsf.edu
+ # scholar: EtTtF5wAAAAJ
+  twitter: "adamturner_01"
+  description: "I was born and raised in Ottawa, Canada and studied Biochemistry at the University of Ottawa in undergrad. During undergrad I developed
+  an interest in DNA sequencing and cardiovascular disease from various research internships. I went on to do a PhD in the lab of Dr. Ruth McPherson at
+  the University of Ottawa Heart Institute in Biochemistry/Human and Molecular Genetics where I worked on functional genomics of coronary artery disease.
+  Following graduate school, I was a postdoctoral fellow in Dr. Clint Miller’s lab at the University of Virginia. There I performed bulk and single-cell
+  ATAC-seq on human coronary artery samples and had the opportunity to learn various bioinformatic tools. I am now excited to join the Corces lab to
+  perform single-cell multi-omic experiments in the context of PD and AD. Outside the lab I enjoy playing hockey, baseball, hiking, and video games."
+
 - name: Sean Dailey
   image: /img/members/SeanDailey.jpg
   altimage: /img/members/SeanDailey.jpg
