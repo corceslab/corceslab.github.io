@@ -1,3 +1,20 @@
+- title: Chromatin accessibility profiling by ATAC-seq
+  image: /img/publications/2022_NatProt_ATACseq.jpg
+  short: A step-by-step guide to bulk ATAC-seq
+  year: 2022
+  authors: 'Grandi FC, Modi H, Kampman L, ___Corces MR*___'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/35478247/
+  pdf: /pdfs/2022_Grandi_NatureProtocols_All.zip
+  journal: Nature Protocols
+  journalShort: Nature Protocols
+  journalLink: https://www.nature.com/articles/s41596-022-00692-9
+  description: 'The Assay for Transposase-accessible Chromatin using sequencing (ATAC-seq) has become a mainstay in genomics
+  reseach. In this protocol manuscript, we describe in detail how to perform all aspects of bulk ATAC-seq and provide considerations
+  for how to best prepare your input cells/nuclei. We highlight considerations for when and when not to use ATAC-seq and provide
+  recommendations for analytical best practices. As part of this publication, we have also released scripts to perform [the
+  iterative overlap peak merging procedure](https://github.com/corceslab/ATAC_IterativeOverlapPeakMerging) that we recommend
+  for creating a robust bulk ATAC-seq peak set.'
+
 - title: ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis
   image: /img/publications/2021_NatGen_ArchR.jpg
   short: scATAC-seq analysis at scale
