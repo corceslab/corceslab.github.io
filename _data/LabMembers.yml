@@ -62,7 +62,7 @@
   after graduation to pursue my PhD in the Biomedical Sciences Program at UCSF. Here, as a member of the Corces Lab, I aim to pair
   multi-omics with organoid and iPSC-based model systems to pinpoint and validate the epigenetic underpinnings driving AD and PD.
   In particular, I am interested in the interplay between such drivers and their contextual relationships in a cell-type and cell-state
-  specific manner. Outside of lab, you’ll find me working with UCSF’s Science Education Partnership, exploring new ways to consume coffee,
+  specific manner. Outside of lab, you'll find me working with UCSF's Science Education Partnership, exploring new ways to consume coffee,
   or making my way to a beach or a mountain."
 
 - name: Fiorella Grandi, PhD
@@ -128,6 +128,22 @@
   neurological diseases to predict the effect of non-coding variants in Alzheimer's Disease and create a tool for researchers to test their own
   variants of interest. Outside of the lab, I enjoy filmmaking, graphics design, hip-hop dance, and debate."
 
+- name: Shreya Menon
+  image: /img/members/ShreyaMenon.jpg
+  altimage: /img/members/ShreyaMenon.jpg
+#  pronouns: 
+  position: UCSF MSTP Student (BMI)
+  email: shreya.menon (at) gladstone.ucsf.edu
+#  scholar: 
+#  twitter: "paulinapaiz02"
+#  website: "http://pau-paiz.com/"
+  description: "I grew up in Ann Arbor, MI and moved to the East Coast to pursue my undergraduate degree from Harvard College, concentrating in mathematics.
+  While there, under the mentorship of Dr. Wesley Cain, I studied dynamical systems, specifically in surveying approaches for analyzing delay-induced stability
+  and instability. I also had the opportunity to do clinical cytogenetics research in Dr. Cynthia Morton's lab where we sought to better understand position
+  effects and balanced chromosomal abnormalities. In 2020, I moved across the country to start in the Medical Scientist Training Program at UCSF. In graduate
+  school, I hope to bring together my background in mathematics with my interest in genetics to use and develop analytical techniques to help better
+  understand how the epigenome influences disease pathology. Outside of the lab, I enjoy trying new foods, going for long walks, and baking."
+
 - name: Hailey Modi
   image: /img/members/HaileyModi.jpg
   altimage: /img/members/HaileyModi.jpg
@@ -169,10 +185,10 @@
   twitter: "cathrinepet"
   description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics and Molecular & Cell Biology
   at the University of California, Berkeley. While an undergraduate, I commuted across the bay to work at the UCSF Memory and Aging Center under the
-  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer’s disease using postmortem human tissue.
+  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer's disease using postmortem human tissue.
   There, I developed a lasting interest in the factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half
   a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
-  cognitive decline and neural network dysfunction in Alzheimer’s disease, co-advised by Lennart Mucke and Ryan Corces."
+  cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
 
 - name: Adam Turner
   image: /img/members/AdamTurner.jpg
@@ -185,7 +201,7 @@
   description: "I was born and raised in Ottawa, Canada and studied Biochemistry at the University of Ottawa in undergrad. During undergrad I developed
   an interest in DNA sequencing and cardiovascular disease from various research internships. I went on to do a PhD in the lab of Dr. Ruth McPherson at
   the University of Ottawa Heart Institute in Biochemistry/Human and Molecular Genetics where I worked on functional genomics of coronary artery disease.
-  Following graduate school, I was a postdoctoral fellow in Dr. Clint Miller’s lab at the University of Virginia. There I performed bulk and single-cell
+  Following graduate school, I was a postdoctoral fellow in Dr. Clint Miller's lab at the University of Virginia. There I performed bulk and single-cell
   ATAC-seq on human coronary artery samples and had the opportunity to learn various bioinformatic tools. I am now excited to join the Corces lab to
   perform single-cell multi-omic experiments in the context of PD and AD. Outside the lab I enjoy playing hockey, baseball, hiking, and video games."
 
