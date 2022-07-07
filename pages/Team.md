@@ -52,18 +52,20 @@ subtitle: Corces Lab Members
 {% endfor %}
 
 # **Alumni**
-{% for person in site.data.Alumni %}
-<hr>
-<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-xs-3">
-        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
-    </div>
-    <div class="col-xs-3" style="text-align: justify">
-        {{person.years}}
-    </div>
-    <div class="col-xs-3" style="text-align: justify">
-        {{person.nextPosition}}
-    </div>
-</div>
-{% endfor %}
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Years in Lab</th>
+    <th>Subsequent Position</th>
+  </tr>
+
+  {% for person in site.data.Alumni %}
+
+  <tr>
+    <td>{{person.name}}</td>
+    <td>{{person.years}}</td>
+    <td>{{person.nextPosition}}</td>
+  </tr>
+
+  {% endfor %}
+</table>
