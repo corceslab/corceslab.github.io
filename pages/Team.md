@@ -50,3 +50,22 @@ subtitle: Corces Lab Members
     </div>
 </div>
 {% endfor %}
+
+# **Alumni**
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Years in Lab</th>
+    <th>Subsequent Position</th>
+  </tr>
+
+  {% for person in site.data.Alumni %}
+
+  <tr>
+    <td>{{person.name}}</td>
+    <td>{{person.years}}</td>
+    <td>{{person.nextPosition}}</td>
+  </tr>
+
+  {% endfor %}
+</table>
