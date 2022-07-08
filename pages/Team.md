@@ -51,11 +51,15 @@ subtitle: Corces Lab Members
 </div>
 {% endfor %}
 
+<hr>
+
 # **Alumni**
+<hr>
 <table>
   <tr>
     <th>Name</th>
     <th>Years in Lab</th>
+    <th>Position in Lab</th>
     <th>Subsequent Position</th>
   </tr>
 
@@ -64,6 +68,7 @@ subtitle: Corces Lab Members
   <tr>
     <td>{{alumni.name}}</td>
     <td>{{alumni.years}}</td>
+    <td>{{alumni.position}}</td>
     <td>{{alumni.nextPosition}}</td>
   </tr>
 
