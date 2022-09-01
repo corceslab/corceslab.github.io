@@ -1,3 +1,18 @@
+- name: Sean Dailey
+  image: /img/members/SeanDailey.jpg
+  altimage: /img/members/SeanDailey.jpg
+#  pronouns: 
+  position: Administrative Assistant
+  email: sean.dailey (at) gladstone.ucsf.edu
+#  scholar:
+#  twitter: ""
+  description: "I was born and raised in Pennsylvania. I graduated from The Pennsylvania State University in 2019 with a major in Microbiology and a
+  minor in Biochemistry and Molecular Biology. While at Penn State, I worked as a medical scribe in the emergency department. There I frequently saw
+  patients with chronic illnesses, including neurodegenerative diseases, which I found most interesting to study. From there, I joined the Corces Lab
+  as an administrative assistant, where I use my organizational skills to help in neurodegenerative disease research."
+  years: "2020-2022"
+  nextPosition: "Stanford, MS Program in Human Genetics & Genetic Counseling"
+
 - name: Lucas Kampman
   image: /img/members/LucasKampman.jpg
   altimage: /img/members/LucasKampman.jpg
@@ -29,3 +44,4 @@
   fascination with the brain, and I aim to join a neuroscience PhD program in the future."
   years: "2020-2022"
   nextPosition: "WashU PhD Program in Biology"
+
