@@ -115,6 +115,27 @@
 #  years: "2020-2022"
 #  nextPosition: "UW, PhD Program in Microbiology"
 
+- name: Dayoung Kim
+  image: /img/members/DayoungKim.jpg
+  altimage: /img/members/DayoungKim.jpg
+#  pronouns: 
+  position: Visiting PhD Student
+  advisor: Primary Advisor - Seung Woo Cho
+  email: dayoung.kim (at) gladstone.ucsf.edu
+  scholar: GUctBkkAAAAJ
+#  twitter:
+  orcid: "0000-0002-7221-2446"
+  description: "Bridging the gap between science and human diseases requires cutting-edge tools such as epigenetics and CRISPR! I was born and raised
+  in Korea and went to Ulsan National Institute of Science and Technology (UNIST) to study biomedical engineering. During my first internship under
+  Dr. Jong Bhak, studying the GWAS data of the Ulsan population, I discovered the beauty of genomic research and its ability to uncover hidden gems
+  in our DNA. I pursued additional internships at Seoul National University (SNU), ranging from epidemiology with Dr. Sue-kyung Park at SNU to
+  genomics with Dr. Jong-il Kim at SNU, where I learned about finding disease-related mutations and validating them using organoids. Working in such
+  a complex and exciting field of science has given me a deep appreciation for the power of genomic research. Currently, I am pursuing a Ph.D. degree
+  under the advisory of Seung Woo Cho, studying changes in epigenetic patterns in human diseases using ATAC-seq and validating the results with
+  CRISPR/Cas9. I’m excited to have a great opportunity to improve my research skills and perform bulk ATAC data analysis to investigate drug response
+  during my year-long visit to the Corces lab."
+
+
 - name: Soumya Kundu
   image: /img/members/SoumyaKundu.jpg
   altimage: /img/members/SoumyaKundu.jpg
