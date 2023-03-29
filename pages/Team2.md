@@ -4,38 +4,6 @@ title: Team
 subtitle: Corces Lab Members
 ---
 
-$('img[data-enlargeable]').addClass('img-enlargeable').click(function() {
-  var src = $(this).attr('src');
-  var modal;
-
-  function removeModal() {
-    modal.remove();
-    $('body').off('keyup.modal-close');
-  }
-  modal = $('<div>').css({
-    background: 'RGBA(0,0,0,.5) url(' + src + ') no-repeat center',
-    backgroundSize: 'contain',
-    width: '100%',
-    height: '100%',
-    position: 'fixed',
-    zIndex: '10000',
-    top: '0',
-    left: '0',
-    cursor: 'zoom-out'
-  }).click(function() {
-    removeModal();
-  }).appendTo('body');
-  //handling ESC
-  $('body').on('keyup.modal-close', function(e) {
-    if (e.key === 'Escape') {
-      removeModal();
-    }
-  });
-});
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<img data-enlargeable width="100" style="cursor: zoom-in" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Lichtenstein_img_processing_test.png" />
-
 <div class="clear"></div>
 
 <div class="container" style="margin-top:-50px">
@@ -48,15 +16,13 @@ $('img[data-enlargeable]').addClass('img-enlargeable').click(function() {
   </div>
 </div>
 
-
-
 # **Lab Members**
 {% for person in site.data.LabMembers %}
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
 <div id = "{{person.name}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-3">
-        <img data-enlargeable width="100" style="cursor: zoom-in" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
+        <img class="img-responsive" src="{{person.image}}" {% if person.altimage %} onmouseover="this.src='{{person.altimage}}';" onmouseout="this.src='{{person.image}}';" {% endif %} alt="{{person.name}}"><br>
         <strong>{{person.name}}</strong> <br>
         {% if person.pronouns %}
            <em>{{person.pronouns}}</em> <br>
