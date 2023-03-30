@@ -16,6 +16,10 @@ subtitle: Corces Lab Members
   </div>
 </div>
 
+<hr>
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
+<hr>
+
 # **Lab Members**
 {% for person in site.data.LabMembers %}
 <hr>
