@@ -1,6 +1,6 @@
 ---
 layout: gridlay
-title: Team
+title: Team2
 subtitle: Corces Lab Members
 ---
 
