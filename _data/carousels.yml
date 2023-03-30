@@ -1,4 +1,7 @@
-carousels:
+carousel:
+  - images: 
+    - image: /img/carousels/221203_GladstoneHolidayParty.jpg
+    - image: /img/carousels/230315_RotationCelebration_BallastPoint.jpg
   - images: 
     - image: /img/carousels/221203_GladstoneHolidayParty.jpg
     - image: /img/carousels/230315_RotationCelebration_BallastPoint.jpg
