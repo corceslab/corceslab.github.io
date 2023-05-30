@@ -66,18 +66,22 @@
 - name: Iris Chin
   image: /img/members/IrisChin.jpg
   altimage: /img/members/IrisChin.jpg
-#  pronouns: 
+  pronouns: she/her/hers
   position: UCSF PhD Student (BMS)
   email: iris.chin (at) gladstone.ucsf.edu
 #  scholar: 
   orcid: "0000-0002-2621-3042"
-  twitter: "irischin9"
+  twitter: "irismchin"
   description: "I grew up in the Bay Area, then moved to the midwest to study Neuroscience and Psychological & Brain Sciences at Washington
-  University in St. Louis. There, I joined the lab of Yehuda Ben-Shahar to study how homologs of genes that cause Williams Syndrome, a
-  human developmental condition characterized by hypersociability, affect social behavior in Drosophila melanogaster. I graduated in 2019, 
-  and after continuing on as lab manager for a year, I joined the Biomedical Sciences Graduate Program at UCSF. Now, as part of the Corces
-  Lab, I am pivoting to study human patient data directly, and using cellular models to understand the etiology of neurodegenerative and
-  neuropsychiatric diseases at genomic and epigenetic levels."
+  University in St. Louis. There, I joined the lab of Yehuda Ben-Shahar and discovered that neuron-specific knockdown of one of the causative
+  genes for Williams Syndrome—a rare developmental condition characterized by hypersociability—has an evolutionarily conserved effect, altering
+  protein translation and social behavioral phenotypes in Drosophila melanogaster. I graduated in 2019, and after continuing for a year as lab
+  manager, I joined the Biomedical Sciences Graduate Program at UCSF. As part of the Corces Lab, I am pivoting to study the genetic drivers of
+  the more common and highly polygenic Alzheimer’s Disease. I aim to understand the cell type-specific effects of disease-associated noncoding
+  genetic variants. My current efforts include profiling human brain tissue using single-cell ATAC-seq and RNA-seq, conducting high-throughput
+  functional genomics assays, and generating CRISPR-edited iPSC-derived models of brain cell types. I think glia (especially oligodendrocytes)
+  are rad! Outside of lab, I can be found taking long walks with an iced coffee, or working toward my mission to find the best fried chicken
+  sandwich in the city."
 
 - name: Zach Gardell
   image: /img/members/ZachGardell.jpg
