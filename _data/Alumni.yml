@@ -69,3 +69,42 @@
   years: "2022-2023"
   nextPosition: "Hospice administrator, Suncrest Hospice"
   
+- name: Paulina Paiz
+  image: /img/members/PaulinaPaiz.jpg
+  altimage: /img/members/PaulinaPaiz.jpg
+#  pronouns: 
+  position: PROPEL Scholar and Staff Research Associate
+  email: paulina.paiz (at) gladstone.ucsf.edu
+#  scholar: 
+  twitter: "paulinapaiz02"
+  website: "http://pau-paiz.com/"
+  description: "I grew up in Central America and studied Computational Neuroscience at the University of Pennsylvania. There, I conducted research on
+  memory retention and network science. After graduating, I grew brain and lung organoids to study SARS-CoV-2 infection patterns at Rockefeller
+  University. Most recently, I was an Aging R&D intern at Loyal and a data analyst at Octant Bio. At the Corces Lab, I will be uncovering allelic
+  imbalance in single-cell chromatin accessibility data and facilitating analysis and sharing of snATAC-seq data through development of ArchR and creation
+  of flexible online data portals. Outside of lab, I enjoy playing tennis, road biking, and practicing French."
+  years: "2021-2023"
+  nextPosition: "PhD Student, UCSF Program in Biological and Medical Informatics"
+
+- name: Heather Chang
+  image: /img/members/HeatherChang.jpg
+  altimage: /img/members/HeatherChang.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: heather.chang (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+  twitter: "_heatherchang_"
+  description: "I was born in Taiwan and moved to the Bay Area when I was twelve to study piano performance at the San Francisco Conservatory of Music Pre-College. My
+  love for music then took me to Columbia University in NYC, where I could be challenged intellectually while still being a part of the classical music scene. At Columbia,
+  soaking up everything like a sponge, I quickly discovered the elegance and beauty of biology, especially how neuronal patterns of activity give rise to sensory and behavioral responses.
+  From there, I decided to pursue a bachelor's in Neuroscience and Behavior and began my research journey in the lab of Richard Axel, studying the functional architecture
+  of innate olfactory avoidance in Drosophila Melanogaster. I focused on the V glomerulus and the DA2 glomerulus, which are glomeruli that detect CO2 and geosmin, to
+  understand how aversive channels elicit aversive behaviors. Through the experience, I gained a deep appreciation for brain systems and the intricacies of systems biology.
+  I also yearn to see how basic science findings can transform into applied therapeutics in a precision context. Now at the Corces Lab, I am working towards that goal by
+  delving into the underpinnings of neuronal dysfunction in neurodegenerative diseases through a gene-regulatory and cell type-mechanistic lens. I am interested in using
+  single-cell epigenomics and transcriptomics, alongside massively parallel reporter assays, to prioritize noncoding SNPs that are associated with the disease."
+  years: "2022-2023"
+  nextPosition: "PhD Student, Harvard Program in Biological and Biomedical Sciences"
+
+

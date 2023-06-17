@@ -28,25 +28,6 @@
   [Thomas Montine](https://www.montinelab.com/index.html), I used multi-omic epigenetic approaches to dissect the role of inherited variation in Alzheimer's and Parkinson's
   disease. This work serves as the launching point of the lab, driving our interest in using the epigenome to better understand neurological disease."
 
-- name: Heather Chang
-  image: /img/members/HeatherChang.jpg
-  altimage: /img/members/HeatherChang.jpg
-#  pronouns: 
-  position: Staff Research Associate
-  email: heather.chang (at) gladstone.ucsf.edu
-#  scholar: 
-#  orcid: "0000-0002-2621-3042"
-  twitter: "_heatherchang_"
-  description: "I was born in Taiwan and moved to the Bay Area when I was twelve to study piano performance at the San Francisco Conservatory of Music Pre-College. My
-  love for music then took me to Columbia University in NYC, where I could be challenged intellectually while still being a part of the classical music scene. At Columbia,
-  soaking up everything like a sponge, I quickly discovered the elegance and beauty of biology, especially how neuronal patterns of activity give rise to sensory and behavioral responses.
-  From there, I decided to pursue a bachelor's in Neuroscience and Behavior and began my research journey in the lab of Richard Axel, studying the functional architecture
-  of innate olfactory avoidance in Drosophila Melanogaster. I focused on the V glomerulus and the DA2 glomerulus, which are glomeruli that detect CO2 and geosmin, to
-  understand how aversive channels elicit aversive behaviors. Through the experience, I gained a deep appreciation for brain systems and the intricacies of systems biology.
-  I also yearn to see how basic science findings can transform into applied therapeutics in a precision context. Now at the Corces Lab, I am working towards that goal by
-  delving into the underpinnings of neuronal dysfunction in neurodegenerative diseases through a gene-regulatory and cell type-mechanistic lens. I am interested in using
-  single-cell epigenomics and transcriptomics, alongside massively parallel reporter assays, to prioritize noncoding SNPs that are associated with the disease."
-
 - name: Serena Chang
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
@@ -61,7 +42,6 @@
   hopes for vision restoration in glaucoma patients. I had the opportunity to design plasmid constructs for CRISPR-Cas9 gene editing and to work on optimizing the
   differentiation of human STEM cells into RGCs. In my final quarter as an undergraduate, I was introduced to and amazed by the field of epigenetics which led me to join the
   Corces Lab where I could dive further into epigenomic profiling of major neurodegenerative diseases. When I'm not in lab, I like crocheting tiny plushies and trying new coffee places."
-
 
 - name: Iris Chin
   image: /img/members/IrisChin.jpg
@@ -128,10 +108,10 @@
   email: lucas.kampman (at) gladstone.ucsf.edu
 #  scholar:
 #  twitter: ""
-  description: "I grew up in the Bay Area and studied Molecular & Cell Biology and German at the University of California, Berkeley. My introduction
-  to biology research was in Oskar Hallatschek's lab, where I worked with Dr. Jona Kayser on recombination-based tools for studying mechanical effects
-  in microbial evolution. Since then, I'e studied transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and
-  the ecology of benthic cyanobacterial mats. I'm broadly interested in the way evolutionary processes have shaped mechanisms for gene regulation."
+  description: "I studied Molecular & Cell Biology and German at the University of California, Berkeley, where I was introduced to research in the laboratory
+  of Oskar Hallatschek. I worked with Jona Kayser on recombination-based tools for studying mechanical effects on microbial evolution. Since then, I’ve studied
+  transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and the ecology of cyanobacterial blooms. In the Corces Lab,
+  I study the effects of noncoding genome variation on disease predisposition using high-throughput functional genomics techniques."
 #  years: "2020-2022"
 #  nextPosition: "UW, PhD Program in Microbiology"
 
@@ -204,21 +184,6 @@
   effects and balanced chromosomal abnormalities. In 2020, I moved across the country to start in the Medical Scientist Training Program at UCSF. In graduate
   school, I hope to bring together my background in mathematics with my interest in genetics to use and develop analytical techniques to help better
   understand how the epigenome influences disease pathology. Outside of the lab, I enjoy trying new foods, going for long walks, and baking."
-
-- name: Paulina Paiz
-  image: /img/members/PaulinaPaiz.jpg
-  altimage: /img/members/PaulinaPaiz.jpg
-#  pronouns: 
-  position: PROPEL Scholar and Staff Research Associate
-  email: paulina.paiz (at) gladstone.ucsf.edu
-#  scholar: 
-  twitter: "paulinapaiz02"
-  website: "http://pau-paiz.com/"
-  description: "I grew up in Central America and studied Computational Neuroscience at the University of Pennsylvania. There, I conducted research on
-  memory retention and network science. After graduating, I grew brain and lung organoids to study SARS-CoV-2 infection patterns at Rockefeller
-  University. Most recently, I was an Aging R&D intern at Loyal and a data analyst at Octant Bio. At the Corces Lab, I will be uncovering allelic
-  imbalance in single-cell chromatin accessibility data and facilitating analysis and sharing of snATAC-seq data through development of ArchR and creation
-  of flexible online data portals. Outside of lab, I enjoy playing tennis, road biking, and practicing French."
 
 - name: Cathrine Petersen
   image: /img/members/CathrinePetersen.jpg
