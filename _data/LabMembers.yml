@@ -201,7 +201,28 @@
   a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
   cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
 
-- name: Adam Turner
+- name: Anthony Raus, PhD
+  image: /img/members/AnthonyRaus.jpg
+  altimage: /img/members/AnthonyRaus.jpg
+  pronouns: he/him/his
+  position: Postdoctoral Fellow
+  email: anthony.raus (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: ""
+  orcid: "0000-0003-1688-2135"
+  description: "Originally from Sacramento California, I studied Biology at the University of California, Irvine. My undergraduate
+  research included developing drug delivery systems using exosomes and self-assembling acid-cleavable nanoparticles. Under the
+  supervision of Professor Autumn Ivy, MD, PhD, I completed my PhD. My research focused on answering the question, \"how does
+  exercise in early life improve learning and memory?\" My investigation, which leveraged bulk CUT&RUN and RNA sequencing
+  techniques, discovered support for a mechanism of epigenetic priming. Along the way, I developed a novel transgenic mouse line
+  and a novel technique, SIT, for the cell-specific simultaneous isolation of nuclei and RNA from a single homogenate. I am
+  excited to investigate memory at the other end of the life-cycle as part of the Corces Lab. I want to leverage multi-omic and
+  single-cell sequencing techniques and bioinformatics tools to understand how the epigenome and the environment influence
+  neurodegenerative diseases, including Alzheimer's and Frontotemporal Dementia. I also enjoy swing dancing, cooking, scootering,
+  art, hiking, video games, board games, and card games."
+
+
+- name: Adam Turner, PhD
   image: /img/members/AdamTurner.jpg
   altimage: /img/members/AdamTurner.jpg
  # pronouns: he/him/his
