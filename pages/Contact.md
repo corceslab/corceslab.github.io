@@ -14,7 +14,7 @@ subtitle: Corces Lab Contact
     <div class="col-sm-8">
         <p class="text-justify">The <b>Corces Lab</b> is located on the 3rd floor of the <b>Gladstone Institutes</b> at 1650 Owens Street on the <b>UCSF Mission Bay Campus</b>. Ryan's office is room number 314.</p>
         <hr>
-        <p class="text-justify">If you are a postdoctoral fellow interested in interviewing, a graduate student interested in rotating, or a motivated undergraduate student looking to have an in-depth research experience, <a href="mailto:ryan.corces@gladstone.ucsf.edu">send Ryan an email</a> to set up a time to talk about potential projects. Potential postdoctoral fellows should include (i) a summary of their current and past research experiences, (ii) a short statement on the types of projects that they are interested in pursuing in the Corces Lab, and (iii) contact information for 3 references.</p>
+        <p class="text-justify">If you are a postdoctoral fellow interested in interviewing, a graduate student interested in rotating, or a motivated undergraduate student looking to have an in-depth research experience, <a href="mailto:ryan.corces@gladstone.ucsf.edu">send Ryan an email</a> to set up a time to talk about potential projects. Potential postdoctoral fellows should include (i) their CV or Biosketch (ii) a summary of their current and past research experiences, (iii) a short statement on the types of projects that they are interested in pursuing in the Corces Lab, and (iv) contact information for 3 references.</p>
     </div>
 </div>
 <hr>
