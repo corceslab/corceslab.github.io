@@ -100,42 +100,6 @@
   with single-cell technologies and neurodegenerative disease, now focused on understanding how genetic variants contribute to Parkison's Disease. Outside
   of lab, I enjoy playing volleyball, hiking, reading, and making art. "
   
-- name: Lucas Kampman
-  image: /img/members/LucasKampman.jpg
-  altimage: /img/members/LucasKampman.jpg
-  pronouns: he/him/his
-  position: Staff Research Associate
-  email: lucas.kampman (at) gladstone.ucsf.edu
-#  scholar:
-#  twitter: ""
-  description: "I studied Molecular & Cell Biology and German at the University of California, Berkeley, where I was introduced to research in the laboratory
-  of Oskar Hallatschek. I worked with Jona Kayser on recombination-based tools for studying mechanical effects on microbial evolution. Since then, I’ve studied
-  transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and the ecology of cyanobacterial blooms. In the Corces Lab,
-  I study the effects of noncoding genome variation on disease predisposition using high-throughput functional genomics techniques."
-#  years: "2020-2022"
-#  nextPosition: "UW, PhD Program in Microbiology"
-
-- name: Dayoung Kim
-  image: /img/members/DayoungKim.jpg
-  altimage: /img/members/DayoungKim.jpg
-#  pronouns: 
-  position: Visiting PhD Student
-  advisor: Primary Advisor - Seung Woo Cho
-  email: dayoung.kim (at) gladstone.ucsf.edu
-#  scholar: 
-  twitter: dayoungkimbio
-  orcid: "0000-0002-7221-2446"
-  description: "Bridging the gap between science and human diseases requires cutting-edge tools such as epigenetics and CRISPR! I was born and raised
-  in Korea and went to Ulsan National Institute of Science and Technology (UNIST) to study biomedical engineering. During my first internship under
-  Dr. Jong Bhak, studying the GWAS data of the Ulsan population, I discovered the beauty of genomic research and its ability to uncover hidden gems
-  in our DNA. I pursued additional internships at Seoul National University (SNU), ranging from epidemiology with Dr. Sue-kyung Park at SNU to
-  genomics with Dr. Jong-il Kim at SNU, where I learned about finding disease-related mutations and validating them using organoids. Working in such
-  a complex and exciting field of science has given me a deep appreciation for the power of genomic research. Currently, I am pursuing a Ph.D. degree
-  under the advisory of Seung Woo Cho, studying changes in epigenetic patterns in human diseases using ATAC-seq and validating the results with
-  CRISPR/Cas9. I’m excited to have a great opportunity to improve my research skills and perform bulk ATAC data analysis to investigate drug response
-  during my year-long visit to the Corces lab."
-
-
 - name: Soumya Kundu
   image: /img/members/SoumyaKundu.jpg
   altimage: /img/members/SoumyaKundu.jpg
@@ -152,22 +116,6 @@
   in 2018, I started my PhD in computer science at Stanford, where I am advised by Anshul Kundaje. Currently, I am working on using machine learning
   to identify cell type-specific functional non-coding variants that impact neurodegenerative diseases, and I am collaborating with the Corces Lab to
   validate our findings using high-throughput experiments."
-
-- name: Alex Lan
-  image: /img/members/AlexLan.jpg
-  altimage: /img/members/AlexLan.jpg
-  #pronouns: he/him/his
-  position: High School Student
-  email: alex.lan (at) gladstone.ucsf.edu
-  #scholar: 
-  #twitter: 
-  description: "I am a high school student at The Harker School in San Jose, California. Growing up in the Bay Area, I was exposed to computer science
-  at an early age through competitions, courses, and events all around me. My introduction to neurodegenerative diseases came later at the start of
-  high school, when I wrote an essay with Dr. Peter Tass on vibrotactile coordinated reset neuromodulation, his novel, non-intrusive treatment for
-  Parkinson's Disease. Following that experience, I spent two years researching and developing an audiovisual emotion classification platform powered
-  by deep neural networks to help individuals with autism. Now, as part of the Corces Lab, I'm combining my interests in machine learning and
-  neurological diseases to predict the effect of non-coding variants in Alzheimer's Disease and create a tool for researchers to test their own
-  variants of interest. Outside of the lab, I enjoy filmmaking, graphics design, hip-hop dance, and debate."
 
 - name: Shreya Menon
   image: /img/members/ShreyaMenon.jpg
