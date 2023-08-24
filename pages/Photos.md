@@ -4,4 +4,4 @@ title: Photos
 subtitle: Corces Lab Photo Gallery
 ---
 
-{% include image-gallery.html folder="/img/members" %}
+{% include image-gallery.html folder="/img/gallery" %}
