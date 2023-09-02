@@ -22,7 +22,7 @@ description: The Corces Lab @ The Gladstone Institutes / UCSF
 navbar-links:
   Research: "pages/Research"
   Team: "pages/Team"
-#  Photos: "pages/Photos"
+  Photos: "pages/Photos"
   Resources: "pages/Resources"
   Publications: "pages/Publications"
   Contact: "pages/Contact"
@@ -31,7 +31,7 @@ navbar-links:
 navbar-icons:
   Research: "fa fa-flask"
   Team: "fa fa-users"
-#  Photos: "fa fa-image"
+  Photos: "fa fa-image"
   Resources: "fa fa-file-code"
   Publications: "fa fa-file-alt"
   Contact: "fa fa-map-marker-alt"
