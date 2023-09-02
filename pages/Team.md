@@ -19,7 +19,7 @@ subtitle: Corces Lab Members
 
 <hr>
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-##### See more photos <a href="/pages/Photos/">here</a>.
+<h4 style="text-align: center;">See more photos <a href="/pages/Photos/">here</a>.</h4>
 <hr>
 
 # **Lab Members**
