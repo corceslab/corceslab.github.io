@@ -16,8 +16,10 @@ subtitle: Corces Lab Members
   </div>
 </div>
 
+
 <hr>
 {% include carousel.html height="50" unit="%" duration="7" number="1" %}
+##### See more photos <a href="/pages/Photos/">here</a>.
 <hr>
 
 # **Lab Members**
