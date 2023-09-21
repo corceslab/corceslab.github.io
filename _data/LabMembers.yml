@@ -43,6 +43,26 @@
   differentiation of human STEM cells into RGCs. In my final quarter as an undergraduate, I was introduced to and amazed by the field of epigenetics which led me to join the
   Corces Lab where I could dive further into epigenomic profiling of major neurodegenerative diseases. When I'm not in lab, I like crocheting tiny plushies and trying new coffee places."
 
+- name: Mrugakshi Chidrawar, MS
+  image: /img/members/MrugakshiChidrawar.jpg
+  altimage: /img/members/MrugakshiChidrawar.jpg
+#  pronouns: she/her/hers
+  position: Staff Bioinformatician
+  email: mrugakshi.chidrawar (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: ""
+#  twitter: ""
+  description: "I was born in India but I grew up and completed my basic schooling in Saudi Arabia. I became fascinated with genetics when
+  I learned about DNA profiling and the Human Genome Project in my school curriculum, and the world of software, algorithms, and databases
+  ignited my passion for computing. After establishing a strong foundation in computer engineering from Pune University, I relocated to
+  the US to attend Boston University to pursue my passion for Bioinformatics. I gained experience as a Research Assistant at the Daniel
+  Segre Lab at BU, where I constructed a metabolic model pipeline and a GUI that helped examine the development of the root microbiome.
+  I also had the opportunity to work as a Data Science and Bioinformatics intern at Pfizer, where I extensively worked with NLP models
+  and techniques such as colocalization and fine-mapping studies for genetics research. I joined the Corces lab to gain exposure to and
+  learn about single-cell technologies and neurodegenerative diseases. I'm now developing a web application for Variant Effect Prediction
+  and a pipeline for in-house Multiome analysis. Outside of work, I love to draw, sing and dance to Bollywood music, watch movies, obsess
+  about the clouds and read endlessly about MBTI personality types!"
+
 - name: Iris Chin
   image: /img/members/IrisChin.jpg
   altimage: /img/members/IrisChin.jpg
