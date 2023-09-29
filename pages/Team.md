@@ -59,7 +59,7 @@ subtitle: Corces Lab Members
 
 <hr>
 
-# **Alumni**
+### *Alumni**
 <hr>
 <table>
   <tr>
@@ -76,6 +76,28 @@ subtitle: Corces Lab Members
     <td>{{alumni.years}}</td>
     <td>{{alumni.position}}</td>
     <td>{{alumni.nextPosition}}</td>
+  </tr>
+
+  {% endfor %}
+</table>
+
+### **Rotation Students**
+<hr>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Program</th>
+    <th>Year / Quarter</th>
+    <th>Thesis Lab</th>
+  </tr>
+
+  {% for rotation in site.data.Rotation %}
+
+  <tr>
+    <td>{{rotation.name}}</td>
+    <td>{{rotation.program}}</td>
+    <td>{{rotation.quarter}}</td>
+    <td>{{rotation.thesisLab}}</td>
   </tr>
 
   {% endfor %}
