@@ -59,7 +59,7 @@ subtitle: Corces Lab Members
 
 <hr>
 
-### *Alumni**
+### **Alumni**
 <hr>
 <table>
   <tr>
