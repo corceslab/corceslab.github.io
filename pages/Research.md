@@ -13,20 +13,6 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
-
-	figure {
-	  border: 1px #cccccc solid;
-	  padding: 4px;
-	  margin: auto;
-	}
-
-	figcaption {
-	  background-color: white;
-	  color: black;
-	  font-style: italic;
-	  padding: 2px;
-	  text-align: center;
-	}
 </style>
 
 <div align="center">
@@ -70,10 +56,7 @@ subtitle: Corces Lab Research
 <div id="Main focus #2" class="col-sm-12">
 	<h4><u>Main focus #2: Epigenetics of disease</u></h4>
 	<div class="square" style="text-align: justify;">
-		<figure>
-			<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="250">
-			<figcaption>Single-nucleus multi-omic data from PD patients, colored by cell type.</figcaption>
-		</figure>
+		<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="250">
 		<p>
 			As discussed above, many AD and PD patients carry genetic variants that predispose them to disease since birth. Yet, most of them do not manifest symptoms until very late in life. This late onset indicates that non-genetic factors associated with aging or the environment contribute to disease processes. Such non-genetic factors impact our cells by changing how and when genes are expressed and they do this largely through altering the epigenome. However, it remains extremely challenging to disentangle how individual non-genetic factors relate to disease in human patients because such prospective studies are impractical. Instead, we hypothesize that environmental factors and aging (acting in concert with inherited genetics) converge on a small number of central disease mechanisms. To understand how these non-genetic factors contribute to disease, we profile the epigenomes and transcriptomes of postmortem patient tissue at single-cell resolution, searching for genes that are dysregulated in certain subsets of patients. Once we find features that appear to impinge on known disease mechanisms, we validate those using in vitro systems, leveraging large-scale CRISPR screens and molecular perturbations in iPSCs. Ultimately, we hope to one day relate those changes back to the original non-genetic factors that drove them to begin with.
 		</p>
@@ -84,24 +67,22 @@ subtitle: Corces Lab Research
 	<hr>
 </div>
 
-<div id = "Other areas of interest" class="row" style="padding-top: 60px; margin-top: -60px;">
-  <div class="col-sm-12" style="text-align: justify">
-  	<h4><u>Other areas of interest</u></h4>
-  	<h5>Ancestry-specific genetic effects</h5>
-  	<p>
-  		Certain genetic variants exhibit different effects in different ancestral backgrounds. For instance, the APOE4 isoform, the strongest known common genetic determinant of AD, has a weaker effect on disease predisposition in individuals of African ancestry and a stronger effect in individuals of East Asian ancestry compared to individuals of European ancestry. This implies that other genetic loci modify an individual’s susceptibility to the effects of APOE4. In the lab, we are uncovering ancestry-specific modifiers of APOE4 and other disease-associated variants, and investigating whether they point to novel aspects of disease biology.
-  	</p>
-  	<h5>Rare variants</h5>
-  	<p>
-  		Rare variants have fueled therapeutic discovery across a wide array of diseases. In the case of AD, rare variants found in familial pedigrees have led to the identification of central disease drivers such as amyloid precursor protein or the presenilins. However, nearly all of the research to date has focused on rare coding variants, ignoring the more than 95% of rare variants that reside in the noncoding genome. This is because it has been challenging to predict the impact of noncoding variants and each individual harbors more than 10,000 rare noncoding variants, a daunting haystack in which to find the right needle. However, we now sit at a crossroad where technologies and datasets finally match the scale and complexity of the problem of rare noncoding variants. We hypothesize that rare noncoding variants drive disease particularly in the 40% of sporadic cases and nearly 50% of hereditary cases that do not harbor any of the known or putative AD-associated variants.  Moreover, we believe that some rare variants may target categorically different genes than do common variants,  because of the much larger effect sizes that can occur in rare variants. Using the same high-throughput methods that we have developed for prioritization of GWAS-defined disease-associated common variants, we are working to functionalize rare noncoding variants as potential drivers of disease in both AD and PD.
-  	</p>
-  	<h5>Resilience to AD pathology</h5>
-  	<p>
-  		AD is associated with the accumulation of beta-amyloid into plaques and hyperphosphorylated tau into neurofibrillary tangles. Though the precise mechanisms are still debated, these two pathologic changes are widely regarded as drivers of neuronal dysfunction and subsequent cognitive decline. However, some individuals appear resilient to the accumulation of AD-related pathology, maintaining unperturbed cognitive function for years. We are interested in understanding (i) if this resilient state truly exists or if these individuals would eventually develop AD-related cognitive impairment, and (ii) if resilience truly exists, how this resilience is genetically and epigenetically encoded. Ultimately, we hope to use our findings to increase resilience across more vulnerable patients.
-  	</p>
-  	<h5>Selective vulnerability of brain cells and regions to disease</h5>
-  	<p>
-  		In AD, only particular types of neurons in particular brain regions succumb to degeneration. Such selective vulnerability also characterizes other neurodegenerative diseases, even if the neuronal types affected differ. In most cases, the cells that accrue the most pathology are the most disrupted. However, many examples exist of neuronal cell types and brain regions that accumulate pathology but remain relatively healthy. We and others hypothesize that selective vulnerability (or resilience) to pathology results from both cell-autonomous properties of neurons and cell non-autonomous properties of surrounding glial cells that is reflected in their gene expression patterns. We are using single-cell transcriptomic approaches to characterize cell type- and brain region-specific differences that may underlie selective vulnerability.
-  	</p>
-  </div>
+<div class="col-sm-12" style="text-align: justify">
+	<h4><u>Other areas of interest</u></h4>
+	<h5>Ancestry-specific genetic effects</h5>
+	<p>
+		Certain genetic variants exhibit different effects in different ancestral backgrounds. For instance, the APOE4 isoform, the strongest known common genetic determinant of AD, has a weaker effect on disease predisposition in individuals of African ancestry and a stronger effect in individuals of East Asian ancestry compared to individuals of European ancestry. This implies that other genetic loci modify an individual’s susceptibility to the effects of APOE4. In the lab, we are uncovering ancestry-specific modifiers of APOE4 and other disease-associated variants, and investigating whether they point to novel aspects of disease biology.
+	</p>
+	<h5>Rare variants</h5>
+	<p>
+		Rare variants have fueled therapeutic discovery across a wide array of diseases. In the case of AD, rare variants found in familial pedigrees have led to the identification of central disease drivers such as amyloid precursor protein or the presenilins. However, nearly all of the research to date has focused on rare coding variants, ignoring the more than 95% of rare variants that reside in the noncoding genome. This is because it has been challenging to predict the impact of noncoding variants and each individual harbors more than 10,000 rare noncoding variants, a daunting haystack in which to find the right needle. However, we now sit at a crossroad where technologies and datasets finally match the scale and complexity of the problem of rare noncoding variants. We hypothesize that rare noncoding variants drive disease particularly in the 40% of sporadic cases and nearly 50% of hereditary cases that do not harbor any of the known or putative AD-associated variants.  Moreover, we believe that some rare variants may target categorically different genes than do common variants,  because of the much larger effect sizes that can occur in rare variants. Using the same high-throughput methods that we have developed for prioritization of GWAS-defined disease-associated common variants, we are working to functionalize rare noncoding variants as potential drivers of disease in both AD and PD.
+	</p>
+	<h5>Resilience to AD pathology</h5>
+	<p>
+		AD is associated with the accumulation of beta-amyloid into plaques and hyperphosphorylated tau into neurofibrillary tangles. Though the precise mechanisms are still debated, these two pathologic changes are widely regarded as drivers of neuronal dysfunction and subsequent cognitive decline. However, some individuals appear resilient to the accumulation of AD-related pathology, maintaining unperturbed cognitive function for years. We are interested in understanding (i) if this resilient state truly exists or if these individuals would eventually develop AD-related cognitive impairment, and (ii) if resilience truly exists, how this resilience is genetically and epigenetically encoded. Ultimately, we hope to use our findings to increase resilience across more vulnerable patients.
+	</p>
+	<h5>Selective vulnerability of brain cells and regions to disease</h5>
+	<p>
+		In AD, only particular types of neurons in particular brain regions succumb to degeneration. Such selective vulnerability also characterizes other neurodegenerative diseases, even if the neuronal types affected differ. In most cases, the cells that accrue the most pathology are the most disrupted. However, many examples exist of neuronal cell types and brain regions that accumulate pathology but remain relatively healthy. We and others hypothesize that selective vulnerability (or resilience) to pathology results from both cell-autonomous properties of neurons and cell non-autonomous properties of surrounding glial cells that is reflected in their gene expression patterns. We are using single-cell transcriptomic approaches to characterize cell type- and brain region-specific differences that may underlie selective vulnerability.
+	</p>
 </div>
