@@ -30,7 +30,7 @@ subtitle: Corces Lab Research
 <div class="container">
   <div class="jumbotron jumbotron-correct">
       <p>
-        In the Corces Lab, we aim to understand one fundamental question: <b> why do some individuals develop neurodegenerative disease while others do not?</b> The answer to this question, broadly speaking, boils down to “nature and nurture”, or genetics and environment, and we approach both of these angles simultaneously by studying the noncoding genome and the epigenetic control of disease-related cellular phenotypes. While much of our work in the lab focuses on the two most common neurodegenerative diseases, Alzheimer’s disease (AD) and Parkinson’s disease (PD), we collaborate with other labs to study disease contexts ranging from traumatic brain injury to glaucoma.
+        In the Corces Lab, we aim to understand one fundamental question: <b> why do some individuals develop neurodegenerative disease while others do not?</b> The answer to this question, broadly speaking, boils down to "nature and nurture", or genetics and environment, and we approach both of these angles simultaneously by studying the noncoding genome and the epigenetic control of disease-related cellular phenotypes. While much of our work in the lab focuses on the two most common neurodegenerative diseases, Alzheimer’s disease (AD) and Parkinson’s disease (PD), we collaborate with other labs to study disease contexts ranging from traumatic brain injury to glaucoma.
       </p>
   </div>
 </div>
@@ -38,7 +38,7 @@ subtitle: Corces Lab Research
 <hr>
 
 <div id="Main focus #1" class="col-sm-12">
-	<h4>Main focus #1: Noncoding genetics in neurodegenerative disease</h4>
+	<h4><u>Main focus #1: Noncoding genetics in neurodegenerative disease</u></h4>
 	<div class="square" style="text-align: justify;">
 		<img src="/img/research/ADHeritability.jpg" alt="Heritability of AD" class="right" width="300">
 		<p>
@@ -57,10 +57,10 @@ subtitle: Corces Lab Research
 <hr>
 
 <div id="Main focus #2" class="col-sm-12">
-	<h4>Main focus #2: Epigenetics of disease</h4>
+	<h4><u>Main focus #2: Epigenetics of disease</u></h4>
 	<div class="square" style="text-align: justify;">
 		<figure>
-			<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="300">
+			<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="250">
 			<figcaption>Single-nucleus multi-omic data from PD patients, colored by cell type.</figcaption>
 		</figure>
 		<p>
@@ -71,9 +71,10 @@ subtitle: Corces Lab Research
 
 <hr>
 
-<div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-8" style="text-align: justify">
-    	<h5>Selective Vulnerability in AD</h5>
+<div id = "Other areas of interest" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-12" style="text-align: justify">
+    	<h4><u>Other areas of interest</u></h4>
+    	<h5>The role of inherited genetic variation in AD</h5>
     	<p>
     		In addition to the cognitive resilience to pathology mentioned above, AD is also characterized by “selective vulnerability” – the disease only affects particular neurons and exhibits consistent differential effects on different brain regions. Moreover, this selective vulnerability exists across multiple diverse neurodegenerative diseases, though the neuronal types affected by the pathology differ across diseases. In most cases, the cells that accumulate the pathology-associated proteins are the cells that are most affected. However, many examples exist of neuronal cell types that accumulate pathology but remain relatively unaffected. Some studies indicate that this is a cell-autonomous property of the cells, implicated specific gene expression patterns in the selectivity of pathologic vulnerability. We are using single-cell approaches to characterize cell type- and brain region-specific differences to identify putative mechanisms underlying this selective vulnerability. 
     	</p>
