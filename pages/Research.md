@@ -13,7 +13,7 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
-	hr.noBorder{
+	.hline {
 		margin-top: 20px;
     margin-bottom: 20px;
     border-top: 1px solid #eee;
@@ -54,7 +54,7 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<hr class="noBorder">
+<div class="block_1 hline"></div>
 
 <div id="Main focus #2" class="col-sm-12">
 	<h4><u>Main focus #2: Epigenetics of disease</u></h4>
