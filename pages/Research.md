@@ -42,6 +42,7 @@ subtitle: Corces Lab Research
 		<p>
 			The genetics of complex disease has largely been studied through the use of genome-wide association studies (GWASs). These studies have identified thousands of genetic variants, coding or noncoding, that correlate with an increased risk of developing AD or PD. However, few actionable therapeutic interventions have ensued. This is largely because GWASs are not specific enough: they home in on genomic loci associated with disease, but they do not pinpoint which specific variants are functional, nor do they identify the genes affected by variants that do not fall within a coding region. 
 		</p>
+		<img src="/img/research/NoncodingVariantEffects.jpg" alt="Noncoding variant effects" class="right" width="500">
 		<p>
 			Noncoding variants primarily exert their effects by altering the sequence-specific binding of transcription factors (TFs), which ultimately changes where and when genes are expressed. A primary goal of the lab is to define the functional noncoding variants impacting predisposition to AD and PD. To this end, we integrate large-scale multi-omic  profiling of patient tissues, state-of-the-art machine learning models, and high-throughput screens in iPSC-derived models of key brain cell types. By broadening our scope to the vast and underexplored noncoding genome, we expect to identify new genetic determinants of AD and PD pathogenesis and nominate new putative targets for therapeutic intervention.
 		</p>
@@ -49,6 +50,19 @@ subtitle: Corces Lab Research
 </div>
 
 <hr>
+
+<div id="Main focus #2" class="col-sm-12">
+	<h4>Main focus #2: Epigenetics of disease</h4>
+	<div class="square" style="text-align: justify;">
+		<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="300">
+		<p>
+			As discussed above, many AD and PD patients carry genetic variants that predispose them to disease since birth. Yet, most of them do not manifest symptoms until very late in life. This late onset indicates that non-genetic factors associated with aging or the environment contribute to disease processes. Such non-genetic factors impact our cells by changing how and when genes are expressed and they do this largely through altering the epigenome. However, it remains extremely challenging to disentangle how individual non-genetic factors relate to disease in human patients because such prospective studies are impractical. Instead, we hypothesize that environmental factors and aging (acting in concert with inherited genetics) converge on a small number of central disease mechanisms. To understand how these non-genetic factors contribute to disease, we profile the epigenomes and transcriptomes of postmortem patient tissue at single-cell resolution, searching for genes that are dysregulated in certain subsets of patients. Once we find features that appear to impinge on known disease mechanisms, we validate those using in vitro systems, leveraging large-scale CRISPR screens and molecular perturbations in iPSCs. Ultimately, we hope to one day relate those changes back to the original non-genetic factors that drove them to begin with.
+		</p>
+	</div>
+</div>
+
+<hr>
+
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
     	<h5>Selective Vulnerability in AD</h5>
