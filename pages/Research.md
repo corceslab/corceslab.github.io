@@ -13,11 +13,6 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
-	.hline {
-		margin-top: 20px;
-    margin-bottom: 20px;
-    border-top: 1px solid #eee;
-	}
 </style>
 
 <div align="center">
@@ -54,7 +49,9 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<div class="block_1 hline"></div>
+<div>
+	<hr>
+</div>
 
 <div id="Main focus #2" class="col-sm-12">
 	<h4><u>Main focus #2: Epigenetics of disease</u></h4>
@@ -69,7 +66,9 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<hr class="noBorder">
+<div>
+	<hr>
+</div>
 
 <div id = "Other areas of interest" class="row" style="padding-top: 60px; margin-top: -60px;">
   <div class="col-sm-12" style="text-align: justify">
