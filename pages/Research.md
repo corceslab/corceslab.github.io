@@ -13,6 +13,11 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
+	hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid #eee;
+}
 </style>
 
 <div align="center">
@@ -54,7 +59,10 @@ subtitle: Corces Lab Research
 <div id="Main focus #2" class="col-sm-12">
 	<h4>Main focus #2: Epigenetics of disease</h4>
 	<div class="square" style="text-align: justify;">
-		<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="300">
+		<figure>
+			<img src="/img/research/PD_UMAP.jpg" alt="Single-nucleus multi-omics of PD" class="right" width="300">
+			<figcaption>Single-nucleus multi-omic data from PD patients, colored by cell type.</figcaption>
+		</figure>
 		<p>
 			As discussed above, many AD and PD patients carry genetic variants that predispose them to disease since birth. Yet, most of them do not manifest symptoms until very late in life. This late onset indicates that non-genetic factors associated with aging or the environment contribute to disease processes. Such non-genetic factors impact our cells by changing how and when genes are expressed and they do this largely through altering the epigenome. However, it remains extremely challenging to disentangle how individual non-genetic factors relate to disease in human patients because such prospective studies are impractical. Instead, we hypothesize that environmental factors and aging (acting in concert with inherited genetics) converge on a small number of central disease mechanisms. To understand how these non-genetic factors contribute to disease, we profile the epigenomes and transcriptomes of postmortem patient tissue at single-cell resolution, searching for genes that are dysregulated in certain subsets of patients. Once we find features that appear to impinge on known disease mechanisms, we validate those using in vitro systems, leveraging large-scale CRISPR screens and molecular perturbations in iPSCs. Ultimately, we hope to one day relate those changes back to the original non-genetic factors that drove them to begin with.
 		</p>
