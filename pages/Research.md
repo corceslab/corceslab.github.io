@@ -13,6 +13,20 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
+
+	figure {
+	  border: 1px #cccccc solid;
+	  padding: 4px;
+	  margin: auto;
+	}
+
+	figcaption {
+	  background-color: white;
+	  color: black;
+	  font-style: italic;
+	  padding: 2px;
+	  text-align: center;
+	}
 </style>
 
 <div align="center">
@@ -49,7 +63,7 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<div>
+<div class="col-sm-12">
 	<hr>
 </div>
 
@@ -66,7 +80,7 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<div>
+<div class="col-sm-12">
 	<hr>
 </div>
 
