@@ -13,13 +13,10 @@ subtitle: Corces Lab Research
     float: left;
     padding: 10px 10px 10px 10px;
 	}
-	horizonalBar{
-	  border: 0;
-	  clear:both;
-	  display:block;
-	  width: 96%;               
-	  background-color:#FFFF00;
-	  height: 1px;
+	hr.noBorder{
+		margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid #eee;
 	}
 </style>
 
@@ -57,7 +54,7 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<horizonalBar>
+<hr class="noBorder">
 
 <div id="Main focus #2" class="col-sm-12">
 	<h4><u>Main focus #2: Epigenetics of disease</u></h4>
@@ -72,7 +69,7 @@ subtitle: Corces Lab Research
 	</div>
 </div>
 
-<horizonalBar>
+<hr class="noBorder">
 
 <div id = "Other areas of interest" class="row" style="padding-top: 60px; margin-top: -60px;">
   <div class="col-sm-12" style="text-align: justify">
