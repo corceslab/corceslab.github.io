@@ -4,6 +4,17 @@ title: Research
 subtitle: Corces Lab Research
 ---
 
+<style>
+	.right {
+    float: right;
+    padding: 10px 10px 10px 10px;
+	}
+	.left {
+    float: left;
+    padding: 10px 10px 10px 10px;
+	}
+</style>
+
 <div align="center">
 	<h1>
 		<strong>Research in the Corces Lab</strong>
@@ -14,34 +25,29 @@ subtitle: Corces Lab Research
 <div class="container">
   <div class="jumbotron jumbotron-correct">
       <p>
-        The <b>Corces Lab</b> studies the gene-regulatory underpinnings of neurodegenerative disease. We utilize broad epigenomic and transcriptomic profiling of primary disease tissue to generate hypotheses about the cell types and molecular mechanisms driving neurodegeneration. We then test these hypotheses using in vitro and murine model systems through large-scale screens (CRISPR / MPRA) and targeted molecular perturbation.
+        In the Corces Lab, we aim to understand one fundamental question: <b> why do some individuals develop neurodegenerative disease while others do not?</b> The answer to this question, broadly speaking, boils down to “nature and nurture”, or genetics and environment, and we approach both of these angles simultaneously by studying the noncoding genome and the epigenetic control of disease-related cellular phenotypes. While much of our work in the lab focuses on the two most common neurodegenerative diseases, Alzheimer’s disease (AD) and Parkinson’s disease (PD), we collaborate with other labs to study disease contexts ranging from traumatic brain injury to glaucoma.
       </p>
   </div>
 </div>
 
 <hr>
 
-<div id="Alzheimer's Disease" class="col-sm-12">
-		<h3>Alzheimer's Disease</h3>
+<div id="Main focus #1" class="col-sm-12">
+	<h4>Main focus #1: Noncoding genetics in neurodegenerative disease</h4>
+	<div class="square" style="text-align: justify;">
+		<img src="/img/research/ADHeritability.jpg" alt="Heritability of AD" class="right" width="300">
 		<p>
-			Alzheimer’s disease (AD) manifests as a devastating age-related progressive neurodegeneration and has become the third most common cause of mortality in the United States. The concomitant loss of cognitive function plagues more than 44 million individuals worldwide, marking AD as a looming public health crisis. To date, no approved therapies exist for the prevention or cure of AD, highlighting a crucial unmet clinical need. In the Corces lab, we aim to identify novel aspects of AD pathogenesis and nominate candidate avenues for therapeutic intervention through an in-depth understanding of cell type- and disease-specific biology.
+			Despite decades of work correlating genetic variation to disease, the vast majority of disease predisposition remains unexplained. AD and other complex diseases are estimated to be 40-60% heritable. Yet our current best methods explain less than half of that predisposition. In practical terms, this means that for many patients, no therapeutics may be available or in the pipeline to counteract their disease. Why are we still missing so many of the genetic determinants of complex diseases? Though cliché, the streetlight analogy is highly applicable here – we tend to search for disease drivers among variants in the coding part of the genome, because it is easy to nominate the genes these variants disrupt. But coding regions represent approximately 2% of the human genome and the vast majority (> 95%) of variants map to noncoding regions of the genome!
 		</p>
-</div>
-<div id="break" class="col-sm-12">
-	<hr>
+		<p>
+			The genetics of complex disease has largely been studied through the use of genome-wide association studies (GWASs). These studies have identified thousands of genetic variants, coding or noncoding, that correlate with an increased risk of developing AD or PD. However, few actionable therapeutic interventions have ensued. This is largely because GWASs are not specific enough: they home in on genomic loci associated with disease, but they do not pinpoint which specific variants are functional, nor do they identify the genes affected by variants that do not fall within a coding region. 
+		</p>
+		<p>
+			Noncoding variants primarily exert their effects by altering the sequence-specific binding of transcription factors (TFs), which ultimately changes where and when genes are expressed. A primary goal of the lab is to define the functional noncoding variants impacting predisposition to AD and PD. To this end, we integrate large-scale multi-omic  profiling of patient tissues, state-of-the-art machine learning models, and high-throughput screens in iPSC-derived models of key brain cell types. By broadening our scope to the vast and underexplored noncoding genome, we expect to identify new genetic determinants of AD and PD pathogenesis and nominate new putative targets for therapeutic intervention.
+		</p>
+	</div>
 </div>
 
-<div id = "Pathologic Resilience" class="row" style="padding-top: 60px; margin-top: -60px;">
-    <div class="col-sm-4">
-    	<img src="/img/research/PathologicResilience.jpg" alt="Pathologic Resilience in AD">
-    </div>
-    <div class="col-sm-8" style="text-align: justify">
-    	<h5>Pathologic Resilience in AD</h5>
-    	<p>
-    		AD is associated with the accumulation of beta-amyloid into plaques and hyperphosphorylated tau into neurofibrillary tangles. Though the precise mechanisms are still debated, these two pathologic changes are widely regarded as drivers of neuronal dysfunction and subsequent cognitive decline. In most cases, the burden of AD-related pathology correlates with the degree of cognitive decline. However, some individuals appear to be resilient to increased AD-related pathology, maintaining unperturbed cognitive function for years. We are interested in understanding (i) if this resilient state truly exists or if these individuals would eventually develop AD-related cognitive impairment, and (ii) if resilience truly exists, how is this resilience genetically and epigenetically encoded. Ultimately, we hope to identify how certain individuals of advanced age avoid cognitive decline and use this understanding to increase resilience across more vulnerable patients.
-    	</p>
-    </div>
-</div>
 <hr>
 <div id = "Selective Vulnerability" class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-8" style="text-align: justify">
