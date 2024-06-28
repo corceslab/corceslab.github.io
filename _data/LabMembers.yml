@@ -83,6 +83,25 @@
   are rad! Outside of lab, I can be found taking long walks with an iced coffee, or working toward my mission to find the best fried chicken
   sandwich in the city."
 
+- name: Leah DeFlitch
+  image: /img/members/LeahDeFlitch.jpg
+  altimage: /img/members/LeahDeFlitch.jpg
+#  pronouns: she/her/hers
+  position: UCSF PhD Student (Neuroscience)
+  email: leah.deflitch (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: ""
+#  twitter: ""
+  description: "I grew up in Pittsburgh, PA, and stayed in-state to study Cellular & Molecular Neuroscience at Temple University in
+  Philadelphia. During my time as an undergraduate, I worked under the mentorship of Dr. Susan Patterson to characterize microglial
+  responses to immune challenge in aged animals. I later joined Dr. Shin Kang's lab for my senior thesis work, investigating adult
+  oligodendrogenesis in the mouse hippocampus. After graduating in 2021, I worked as a research assistant in the lab of Dr. Ethan
+  Goldberg at the Children's Hospital of Philadelphia/University of Pennsylvania. Here, I used stem cell models to study
+  neurodevelopmental diseases (and learned why neuroscientists also like neurons!). I moved across the country in 2023 to start my
+  PhD in Neuroscience at UCSF, aiming to combine my background in iPSC systems with new genetic approaches. In the Corces lab, I
+  plan to combine genomic profiling with functional assays to investigate the mechanisms underlying Alzheimer's disease. Outside
+  of pipetting, I love running far distances, baking tall cakes, and watching the occasional Penguins hockey game."
+
 - name: Zach Gardell
   image: /img/members/ZachGardell.jpg
   altimage: /img/members/ZachGardell.jpg
