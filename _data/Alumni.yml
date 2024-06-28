@@ -1,4 +1,20 @@
-
+- name: Alia Johnson
+  image: /img/members/AliaJohnson.jpg
+  altimage: /img/members/AliaJohnson.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: alia.johnson (at) gladstone.ucsf.edu
+#  scholar:
+#  twitter: ""
+  description: "I grew up in the Bay Area, and went to the University of Washington in Seattle to pursue a degree in Molecular, Cellular, and Developmental
+  Biology. While there, I developed an interest in disease mechanisms and drug development. Under the mentorship of Dr. Daniel Promislow, I joined a project
+  working with the model organism Drosophila to study how tau protein affects the transcriptome of individual brain cells. Additionally, I started my own
+  project focused on the aging drug, rapamycin, and its affect on development within Drosophila larvae of different genotypes. My work concluded with the
+  production of single-nuclei transcriptome data of whole larvae raised on rapamycin. After graduating in 2022, I joined the Corces lab to continue working
+  with single-cell technologies and neurodegenerative disease, now focused on understanding how genetic variants contribute to Parkison's Disease. Outside
+  of lab, I enjoy playing volleyball, hiking, reading, and making art."
+  years: "2022-2024"
+  nextPosition: "PhD Student, Duke Program in Genetics and Genomics"
 
 - name: Lucas Kampman
   image: /img/members/LucasKampman.jpg
@@ -13,7 +29,7 @@
   transcriptional regulation in mammalian development, the role of evolution in tumor metastasis, and the ecology of cyanobacterial blooms. In the Corces Lab,
   I study the effects of noncoding genome variation on disease predisposition using high-throughput functional genomics techniques."
   years: "2020-2023"
-  nextPosition: "UW, PhD Program in Molecular and Cellular Biology"
+  nextPosition: "PhD Student, UW Program in Molecular and Cellular Biology"
 
 - name: Dayoung Kim
   image: /img/members/DayoungKim.jpg
