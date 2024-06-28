@@ -123,6 +123,26 @@
   specific manner. Outside of lab, you'll find me working with UCSF's Science Education Partnership, exploring new ways to consume coffee,
   or making my way to a beach or a mountain."
   
+- name: Anthony Haunt (Raus), PhD
+  image: /img/members/AnthonyRaus.jpg
+  altimage: /img/members/AnthonyRaus.jpg
+  pronouns: he/him/his
+  position: Postdoctoral Fellow
+  email: anthony.haunt (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: ""
+  orcid: "0000-0003-1688-2135"
+  description: "Originally from Sacramento California, I studied Biology at the University of California, Irvine. My undergraduate
+  research included developing drug delivery systems using exosomes and self-assembling acid-cleavable nanoparticles. Under the
+  supervision of Professor Autumn Ivy, MD, PhD, I completed my PhD. My research focused on answering the question, \"how does
+  exercise in early life improve learning and memory?\" My investigation, which leveraged bulk CUT&RUN and RNA sequencing
+  techniques, discovered support for a mechanism of epigenetic priming. Along the way, I developed a novel transgenic mouse line
+  and a novel technique, SIT, for the cell-specific simultaneous isolation of nuclei and RNA from a single homogenate. I am
+  excited to investigate memory at the other end of the life-cycle as part of the Corces Lab. I want to leverage multi-omic and
+  single-cell sequencing techniques and bioinformatics tools to understand how the epigenome and the environment influence
+  neurodegenerative diseases, including Alzheimer's and Frontotemporal Dementia. I also enjoy swing dancing, cooking, scootering,
+  art, hiking, video games, board games, and card games."
+
 - name: Soumya Kundu
   image: /img/members/SoumyaKundu.jpg
   altimage: /img/members/SoumyaKundu.jpg
@@ -189,26 +209,22 @@
   a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
   cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
 
-- name: Anthony Haunt (Raus), PhD
-  image: /img/members/AnthonyRaus.jpg
-  altimage: /img/members/AnthonyRaus.jpg
-  pronouns: he/him/his
-  position: Postdoctoral Fellow
-  email: anthony.haunt (at) gladstone.ucsf.edu
-  #scholar: 
-  #twitter: ""
-  orcid: "0000-0003-1688-2135"
-  description: "Originally from Sacramento California, I studied Biology at the University of California, Irvine. My undergraduate
-  research included developing drug delivery systems using exosomes and self-assembling acid-cleavable nanoparticles. Under the
-  supervision of Professor Autumn Ivy, MD, PhD, I completed my PhD. My research focused on answering the question, \"how does
-  exercise in early life improve learning and memory?\" My investigation, which leveraged bulk CUT&RUN and RNA sequencing
-  techniques, discovered support for a mechanism of epigenetic priming. Along the way, I developed a novel transgenic mouse line
-  and a novel technique, SIT, for the cell-specific simultaneous isolation of nuclei and RNA from a single homogenate. I am
-  excited to investigate memory at the other end of the life-cycle as part of the Corces Lab. I want to leverage multi-omic and
-  single-cell sequencing techniques and bioinformatics tools to understand how the epigenome and the environment influence
-  neurodegenerative diseases, including Alzheimer's and Frontotemporal Dementia. I also enjoy swing dancing, cooking, scootering,
-  art, hiking, video games, board games, and card games."
-
+- name: Vitto Resnick
+  image: /img/members/VittoResnick.jpg
+  altimage: /img/members/VittoResnick.jpg
+ # pronouns: he/him/his
+  position: Staff Research Associate
+  email: vitto.resnick (at) gladstone.ucsf.edu
+ # scholar: EtTtF5wAAAAJ
+ # twitter: ""
+  description: "I grew up in the San Fernando Valley (aka the Valley) in Los Angeles, CA and went to the University of California, Berkeley
+  to pursue degrees in Chemical Biology (Concentration: Computational Chemistry), Psychology, Molecular & Cell Biology (Emphasis: Neurobiology),
+  and Nutritional Sciences (Emphasis: Physiology & Metabolism). While there, I developed an interest in the pathology of and therapeutic
+  approaches for neurodegenerative diseases. In Dr. John Flannery's lab, I developed three novel optogenetic therapies for retinal degeneration
+  by targeting bipolar cells for transgenic expression of high-performance synthetic opsins, and I assessed vision restoration in mouse models
+  of retinal degeneration through behavioral assays. After graduating in 2024, I joined the Corces Lab to study neurodegenerative diseases via
+  single-cell multiomics approaches to epigenetic profiling. Outside of lab, I enjoy powerlifting, playing tennis, studying foreign languages,
+  writing poetry, and exploring new ways to make coffee."
 
 - name: Aayushi Shah
   image: /img/members/AayushiShah.jpg
