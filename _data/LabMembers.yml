@@ -86,11 +86,11 @@
 - name: Leah DeFlitch
   image: /img/members/LeahDeFlitch.jpg
   altimage: /img/members/LeahDeFlitch.jpg
-#  pronouns: she/her/hers
+  pronouns: she/her/hers
   position: UCSF PhD Student (Neuroscience)
   email: leah.deflitch (at) gladstone.ucsf.edu
 #  scholar: 
-#  orcid: ""
+  orcid: "0009-0002-6958-2558"
 #  twitter: ""
   description: "I grew up in Pittsburgh, PA, and stayed in-state to study Cellular & Molecular Neuroscience at Temple University in
   Philadelphia. During my time as an undergraduate, I worked under the mentorship of Dr. Susan Patterson to characterize microglial
