@@ -1,7 +1,11 @@
 carousel:
   - images:
     - image: /img/carousels/Carousel_2023-LabGroupPhoto.jpg
+    - image: /img/carousels/Carousel_2024-RetreatKayaking.jpg
+    - image: /img/carousels/Carousel_2024-Halloween.jpg
+    - image: /img/carousels/Carousel_2024-GiantsGame.jpg
     - image: /img/carousels/Carousel_2023-LabRetreat2.jpg
+    - image: /img/carousels/Carousel_2023-Halloween.jpg
 #    - image: /img/carousels/Carousel_2023-LabRetreat1.jpg
 #    - image: /img/carousels/Carousel_2023-Rotation-Celebration.jpg
     - image: /img/carousels/Carousel_2022-Holiday-Party.jpg
