@@ -193,22 +193,6 @@
   understand how certain eye diseases, including glaucoma, develop, with the goal of informing new therapeutics. Outside of lab, I enjoy
   cycling around various spots in the Bay, and playing and watching basketball and soccer."
 
-- name: Cathrine Petersen
-  image: /img/members/CathrinePetersen.jpg
-  altimage: /img/members/CathrinePetersen.jpg
-  pronouns: she/her/hers
-  position: UCSF PhD Student (Neuroscience)
-  advisor: Primary Advisor - Lennart Mucke
-  email: cathrine.petersen (at) gladstone.ucsf.edu
-  scholar: EtTtF5wAAAAJ
-  twitter: "cathrinepet"
-  description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics and Molecular & Cell Biology
-  at the University of California, Berkeley. While an undergraduate, I commuted across the bay to work at the UCSF Memory and Aging Center under the
-  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer's disease using postmortem human tissue.
-  There, I developed a lasting interest in the factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half
-  a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I am now using single-cell data to study the etiology of
-  cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
-
 - name: Vitto Resnick
   image: /img/members/VittoResnick.jpg
   altimage: /img/members/VittoResnick.jpg
@@ -225,6 +209,22 @@
   of retinal degeneration through behavioral assays. After graduating in 2024, I joined the Corces Lab to study neurodegenerative diseases via
   single-cell multiomics approaches to epigenetic profiling. Outside of lab, I enjoy powerlifting, playing tennis, studying foreign languages,
   writing poetry, and exploring new ways to make coffee."
+
+- name: Cathrine Sant (Petersen)
+  image: /img/members/CathrineSant.jpg
+  altimage: /img/members/CathrineSant.jpg
+  pronouns: she/her/hers
+  position: Postdoctoral Fellow
+  advisor: Co-mentor - Lennart Mucke
+  email: cathrine.sant (at) gladstone.ucsf.edu
+  scholar: EtTtF5wAAAAJ
+  twitter: "cathrine_sant"
+  description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics and Molecular & Cell Biology
+  at the University of California, Berkeley. While an undergraduate, I commuted across the bay to work at the UCSF Memory and Aging Center under the
+  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer's disease using postmortem human tissue.
+  There, I developed a lasting interest in the factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half
+  a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I used single-cell data to study the etiology of
+  cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
 
 - name: Aayushi Shah
   image: /img/members/AayushiShah.jpg
