@@ -219,12 +219,15 @@
   email: cathrine.sant (at) gladstone.ucsf.edu
   scholar: EtTtF5wAAAAJ
   twitter: "cathrine_sant"
-  description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics and Molecular & Cell Biology
-  at the University of California, Berkeley. While an undergraduate, I commuted across the bay to work at the UCSF Memory and Aging Center under the
-  mentorship of Lea T. Grinberg, studying neuropathological alterations in atypical clinical variants of Alzheimer's disease using postmortem human tissue.
-  There, I developed a lasting interest in the factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half
-  a year traveling before starting my PhD in the Neuroscience Program at UCSF in 2019, where I used single-cell data to study the etiology of
-  cognitive decline and neural network dysfunction in Alzheimer's disease, co-advised by Lennart Mucke and Ryan Corces."
+  description: "I was born in Denmark and moved to the U.S. when I was seven, growing up in the Bay Area. I studied Statistics
+  and Molecular & Cell Biology at the University of California, Berkeley. While an undergraduate, I commuted across the bay to
+  work at the UCSF Memory and Aging Center under the mentorship of Lea T. Grinberg, studying neuropathological alterations in
+  atypical clinical variants of Alzheimer's disease using postmortem human tissue. There, I developed a lasting interest in the
+  factors that influence the clinical progression of neurodegenerative diseases. After graduation, I spent half a year traveling
+  before starting my PhD in the Neuroscience Program at UCSF in 2019. During my PhD, I developed a new clustering method for
+  single-cell data, CHOIR, that uses permutation testing to identify biologically distinct cell types and states. As a postdoc,
+  I am using single-cell data to study the etiology of cognitive decline and neural network dysfunction in Alzheimer's disease,
+  co-advised by Ryan Corces and Lennart Mucke."
 
 - name: Aayushi Shah
   image: /img/members/AayushiShah.jpg
