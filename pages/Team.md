@@ -11,7 +11,7 @@ subtitle: Corces Lab Members
       <img src="/img/CorcesLab_DrawImpacts_WithLogo_NoText.jpg" alt="The Corces Lab @ The Gladstone Institute For Neurological Disease"><br>
       <h3 style="text-align:center"> Welcome to the Corces Lab!</h3>
       <p style="font-size:14px;margin-top:10px">
-        In the Corces lab, we work together to address important unanswered scientific questions. We believe in community as a basis for success and we strive to create an atmosphere where anyone can thrive and be themself. We prioritize mentorship, scholarship, and collaboration with the goal of improving human health and leaving the world a better place than when we found it.
+        In the Corces lab, we work together to address important unanswered scientific questions. We believe in community as a basis for success and we strive to create an atmosphere where anyone can thrive and be themselves. We understand that everyone approaches science from a different set of personal and academic experiences and that the greatest progress is made when each individual member of our team is supported by those around them. We engage in our community to both educate others about the work that we do and to provide research opportunities for individuals who otherwise may not consider a career in science as a viable option. We prioritize mentorship, scholarship, and collaboration with the goal of improving human health and leaving the world a better place than when we found it.
       </p>
   </div>
 </div>
