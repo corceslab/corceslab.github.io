@@ -13,6 +13,11 @@ subtitle: Corces Lab Members
       <p style="font-size:14px;margin-top:10px">
         In the Corces lab, we work together to address important unanswered scientific questions. We believe in community as a basis for success and we strive to create an atmosphere where anyone can thrive and be themselves. We understand that everyone approaches science from a different set of personal and academic experiences and that the greatest progress is made when each individual member of our team is supported by those around them. We engage in our community to both educate others about the work that we do and to provide research opportunities for individuals who otherwise may not consider a career in science as a viable option. We prioritize mentorship, scholarship, and collaboration with the goal of improving human health and leaving the world a better place than when we found it.
       </p>
+      <br>
+      <h5 style="text-align:center"> Interested in joining?</h5>
+      <p style="font-size:14px;margin-top:10px">
+        The lab is always looking for talented and motivated members (space permitting). If you are a PhD student interested in rotating or a postdoctoral fellow applicant interested in joining, email Ryan at ryan.corces (at) gladstone.ucsf.edu. Highly accomplished postdoctoral fellow applicants are encouraged to apply to the <a href="https://gladstone.org/nomis-gladstone-fellowship-program">NOMIS-Gladstone Fellowship program</a>. This interdisciplinary training and research program offers exceptional postdoctoral scientists the freedom to address big unanswered questions at the intersection of two or more scientific disciplines.
+      </p>
   </div>
 </div>
 
