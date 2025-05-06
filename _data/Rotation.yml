@@ -1,3 +1,8 @@
+- name: Ashvin Ravi
+  program: BMI
+  quarter: "2023-2024, Winter"
+  thesisLab: Tony Capra
+
 - name: Maddie Urbanek
   program: BMS
   quarter: "2022-2023, Winter"
@@ -10,15 +15,15 @@
 
 - name: Mai Nobuhara
   program: PSPG
-  quarter: 2020-2021, Spring
+  quarter: "2020-2021, Spring"
   thesisLab: Nadav Ahituv
 
 - name: Indigo Rose
   program: NS
-  quarter: 2020-2021, Winter
+  quarter: "2020-2021, Winter"
   thesisLab: Martin Kampmann
 
 - name: Rachel O'Sullivan
   program: NS
-  quarter: 2020-2021, Winter
+  quarter: "2020-2021, Winter"
   thesisLab: Mazen Kheirbek
