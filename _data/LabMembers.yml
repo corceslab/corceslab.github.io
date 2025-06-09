@@ -28,6 +28,18 @@
   [Thomas Montine](https://www.montinelab.com/index.html), I used multi-omic epigenetic approaches to dissect the role of inherited variation in Alzheimer's and Parkinson's
   disease. This work serves as the launching point of the lab, driving our interest in using the epigenome to better understand neurological disease."
 
+#- name: David Aley
+#  image: /img/members/DavidAley.jpg
+#  altimage: /img/members/DavidAley.jpg
+#  pronouns: 
+#  position: UCSF PhD Student (Neuroscience)
+#  email: david.aley (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: ""
+#  twitter: ""
+#  description: ""
+
+
 - name: Serena Chang
   image: /img/members/SerenaChang.jpg
   altimage: /img/members/SerenaChang.jpg
@@ -228,37 +240,6 @@
   single-cell data, CHOIR, that uses permutation testing to identify biologically distinct cell types and states. As a postdoc,
   I am using single-cell data to study the etiology of cognitive decline and neural network dysfunction in Alzheimer's disease,
   co-advised by Ryan Corces and Lennart Mucke."
-
-- name: Aayushi Shah
-  image: /img/members/AayushiShah.jpg
-  altimage: /img/members/AayushiShah.jpg
-#  pronouns: she/her/hers
-  position: Staff Research Associate
-  email: aayushi.shah (at) gladstone.ucsf.edu
-  #scholar: 
-  #twitter: ""
-#  orcid: ""
-  description: "I grew up in the Bay Area and studied Microbiology, Immunology, and Molecular Genetics as the University of
-  California, Los Angeles. While there, I worked in the lab of Dr. Vaithilingaraja Arumugaswami studying pandemic potential
-  virus pathogenesis, and completed a thesis project focused on studying viral genetic adaptation to innate immune responses
-  such as cGAS-STING in Monkeypox outbreaks. After graduation, I joined the Corces Lab to learn more about and focus on the
-  fields of epigenetics and neurodegenerative diseases. Outside of lab, I spend most of my time reading and attempting to
-  finish writing a novel."
-
-- name: Adam Turner, PhD
-  image: /img/members/AdamTurner.jpg
-  altimage: /img/members/AdamTurner.jpg
- # pronouns: he/him/his
-  position: Project Manager
-  email: adam.turner (at) gladstone.ucsf.edu
- # scholar: EtTtF5wAAAAJ
-  twitter: "adamturner_01"
-  description: "I was born and raised in Ottawa, Canada and studied Biochemistry at the University of Ottawa in undergrad. During undergrad I developed
-  an interest in DNA sequencing and cardiovascular disease from various research internships. I went on to do a PhD in the lab of Dr. Ruth McPherson at
-  the University of Ottawa Heart Institute in Biochemistry/Human and Molecular Genetics where I worked on functional genomics of coronary artery disease.
-  Following graduate school, I was a postdoctoral fellow in Dr. Clint Miller's lab at the University of Virginia. There I performed bulk and single-cell
-  ATAC-seq on human coronary artery samples and had the opportunity to learn various bioinformatic tools. I am now excited to join the Corces lab to
-  perform single-cell multi-omic experiments in the context of PD and AD. Outside the lab I enjoy playing hockey, baseball, hiking, and video games."
 
 - name: Erica Delin
   image: /img/members/EricaDelin.jpg
