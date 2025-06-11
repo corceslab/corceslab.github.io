@@ -31,13 +31,21 @@
 #- name: David Aley
 #  image: /img/members/DavidAley.jpg
 #  altimage: /img/members/DavidAley.jpg
-#  pronouns: 
+#  pronouns: he/him/his
 #  position: UCSF PhD Student (Neuroscience)
 #  email: david.aley (at) gladstone.ucsf.edu
-#  scholar: 
-#  orcid: ""
+#  scholar: nkUkMZYAAAAJ
+#  orcid: "0000-0002-1993-612X"
 #  twitter: ""
-#  description: ""
+#  description: "I grew up in Montclair, NJ, and later moved to New England to study computational neuroscience and statistics
+#  at Harvard College. As an undergraduate, I worked in the labs of Dr. Jeff Lichtman and Dr. Florian Engert, mapping human and
+#  larval zebrafish connectomes to explore the structural principles of brain organization. I then shifted my focus to motor
+#  systems neuroscience in the lab of Dr. Bence Ölveczky, using statistical modeling to probe how neurons in the rodent basal
+#  ganglia flexibly adapt over time to support learning. After graduating in 2024, I moved to the West Coast to begin my PhD
+#  in neuroscience at UCSF. I’m now applying my interests in neuroscience and statistics to questions in neurodegenerative
+#  disease and genomics. In the Corces Lab, I plan to leverage single-cell analysis and machine learning to investigate cell
+#  type-specific epigenetic mechanisms underlying Alzheimer’s Disease. Outside of the lab, I love climbing mountains, seeing
+#  live music, and trying (but occasionally succeeding) to solve NYTimes crosswords."
 
 
 - name: Serena Chang
