@@ -1,7 +1,12 @@
-#- name: Zoe Chen
-#  program: BMI
-#  quarter: "2024-2025, Winter"
-#  thesisLab: Yin Shen
+- name: Sanjay Rangavajjhala
+  program: BMI
+  quarter: "2024-2025, Spring"
+  thesisLab: Gabi Fragiadakis
+
+- name: Zoe Chen
+  program: BMI
+  quarter: "2024-2025, Winter"
+  thesisLab: Yin Shen
 
 - name: Vishvak Subramanyam
   program: BMI
