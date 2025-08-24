@@ -265,12 +265,12 @@
   I am using single-cell data to study the etiology of cognitive decline and neural network dysfunction in Alzheimer's disease,
   co-advised by Ryan Corces and Lennart Mucke."
 
-- name: Erica Delin
-  image: /img/members/EricaDelin.jpg
-  altimage: /img/members/EricaDelin.jpg
-  pronouns: she/her/hers
-  position: Senior Administrative Specialist
-  email: erica.delin (at) gladstone.ucsf.edu
+#- name: Erica Delin
+#  image: /img/members/EricaDelin.jpg
+#  altimage: /img/members/EricaDelin.jpg
+#  pronouns: she/her/hers
+#  position: Senior Administrative Specialist
+#  email: erica.delin (at) gladstone.ucsf.edu
  # scholar: 
  # twitter: ""
  # description: ""
