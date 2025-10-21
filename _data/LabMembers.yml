@@ -93,15 +93,16 @@
   orcid: "0000-0002-2621-3042"
   twitter: "irismchin"
   description: "I grew up in the Bay Area, then moved to the midwest to study Neuroscience and Psychological & Brain Sciences at Washington
-  University in St. Louis. There, I joined the lab of Yehuda Ben-Shahar and discovered that neuron-specific knockdown of one of the causative
-  genes for Williams Syndrome—a rare developmental condition characterized by hypersociability—has an evolutionarily conserved effect, altering
-  protein translation and social behavioral phenotypes in Drosophila melanogaster. I graduated in 2019, and after continuing for a year as lab
-  manager, I joined the Biomedical Sciences Graduate Program at UCSF. As part of the Corces Lab, I am pivoting to study the genetic drivers of
-  the more common and highly polygenic Alzheimer’s Disease. I aim to understand the cell type-specific effects of disease-associated noncoding
-  genetic variants. My current efforts include profiling human brain tissue using single-cell ATAC-seq and RNA-seq, conducting high-throughput
-  functional genomics assays, and generating CRISPR-edited iPSC-derived models of brain cell types. I think glia (especially oligodendrocytes)
-  are rad! Outside of lab, I can be found taking long walks with an iced coffee, or working toward my mission to find the best fried chicken
-  sandwich in the city."
+  University in St. Louis. I joined the lab of Yehuda Ben-Shahar and discovered that neuron-specific knockdown of one of the causative genes
+  for Williams Syndrome—a rare developmental condition characterized by hyper-social behaviors—has an evolutionarily conserved effect,
+  altering protein translation and social behavior in Drosophila melanogaster. After graduating in 2019 and continuing in the lab for a
+  year as a technician and lab manager, I joined the Biomedical Sciences Program at UCSF to gain experience with more directly translational
+  neuroscience research. In the Corces Lab, I am studying common noncoding genetic variants associated with Parkinson’s and Alzheimer’s
+  Disease. I aim to understand the cell type-specific effects of these variants and how they drive susceptibility to disease. Some of
+  my efforts include analyzing single-nucleus ATAC-seq from postmortem human brain samples, conducting functional genomics assays such
+  as MPRA and CRISPRi in vitro, and generating CRISPR-edited hiPSC-derived models of brain cell types to validate our high-throughput
+  results. Outside of the lab, I can be found taking long walks with an iced coffee, hiking through beautiful Californian landscapes,
+  or working on my crochet small business."
 
 - name: Leah DeFlitch
   image: /img/members/LeahDeFlitch.jpg
@@ -178,23 +179,6 @@
   single-cell sequencing techniques and bioinformatics tools to understand how the epigenome and the environment influence
   neurodegenerative diseases, including Alzheimer's and Frontotemporal Dementia. I also enjoy swing dancing, cooking, scootering,
   art, hiking, video games, board games, and card games."
-
-- name: Soumya Kundu
-  image: /img/members/SoumyaKundu.jpg
-  altimage: /img/members/SoumyaKundu.jpg
-  pronouns: he/him/his
-  position: Stanford PhD Student (CS)
-  advisor: Primary Advisor - Anshul Kundaje
-  email: soumya.kundu (at) stanford.edu
-  scholar: Pgy1uHcAAAAJ
-  twitter: "soumyakundu_"
-  description: "I was born in India and moved to Connecticut when I was eleven years old. During my undergrad at the University of Connecticut, I got
-  interested in computational biology when I joined Mukul Bansal's lab, where I worked on developing methods for simulating the evolution of gene
-  families in the presence of horizontal gene transfer. While working at the lab during the summer, I got an opportunity to volunteer as a computer
-  science teacher at Camp Promise, a summer camp for people with muscular dystrophy, which sparked my interest in disease genomics. After graduating
-  in 2018, I started my PhD in computer science at Stanford, where I am advised by Anshul Kundaje. Currently, I am working on using machine learning
-  to identify cell type-specific functional non-coding variants that impact neurodegenerative diseases, and I am collaborating with the Corces Lab to
-  validate our findings using high-throughput experiments."
 
 - name: Shreya Menon
   image: /img/members/ShreyaMenon.jpg

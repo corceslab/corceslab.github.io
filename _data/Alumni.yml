@@ -1,3 +1,20 @@
+# - name: Soumya Kundu
+#   image: /img/members/SoumyaKundu.jpg
+#   altimage: /img/members/SoumyaKundu.jpg
+#   pronouns: he/him/his
+#   position: Stanford PhD Student (CS)
+#   advisor: Primary Advisor - Anshul Kundaje
+#   email: soumya.kundu (at) stanford.edu
+#   scholar: Pgy1uHcAAAAJ
+#   twitter: "soumyakundu_"
+#   description: "I was born in India and moved to Connecticut when I was eleven years old. During my undergrad at the University of Connecticut, I got
+#   interested in computational biology when I joined Mukul Bansal's lab, where I worked on developing methods for simulating the evolution of gene
+#   families in the presence of horizontal gene transfer. While working at the lab during the summer, I got an opportunity to volunteer as a computer
+#   science teacher at Camp Promise, a summer camp for people with muscular dystrophy, which sparked my interest in disease genomics. After graduating
+#   in 2018, I started my PhD in computer science at Stanford, where I am advised by Anshul Kundaje. Currently, I am working on using machine learning
+#   to identify cell type-specific functional non-coding variants that impact neurodegenerative diseases, and I am collaborating with the Corces Lab to
+#   validate our findings using high-throughput experiments."
+
 - name: Aayushi Shah
   image: /img/members/AayushiShah.jpg
   altimage: /img/members/AayushiShah.jpg
