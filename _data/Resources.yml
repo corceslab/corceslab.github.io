@@ -1,11 +1,19 @@
+- title: VEP
+  image: /img/resources/VEP.jpg
+  imageLink: https://vep.corces.gladstone.org/
+  description: "Predicting which noncoding variants will have an impact and in which cell types is a major challenge in genetics research.
+  Machine learning models have been developed to aid in this prediction but these are most inaccessible to non-experts. We have built the
+  Variant Effect Prediction (VEP) platform to enable anyone to query ChromBPNet models that we have trained on postmortem human brain single-nucleus
+  ATAC-seq data. This app will help you decipher which noncoding variants are most likely to have an impact on gene regulation. You can find the VEP app
+  [here](https://vep.corces.gladstone.org/)."
+
 - title: CHOIR
   image: /img/resources/CHOIR.jpg
   imageLink: https://www.choirclustering.com/
   description: "CHOIR (clustering hierachy optimization by iterative random forests) is a clustering algorithm
   for single-cell data. CHOIR applies a framework of permutation tests and random forest classifiers across a
-  hierarchical clustering tree to statistically identify clusters that represent distinct populations. CHOIR is
-  currently in beta. You can find everything you need on our [website](https://www.choirclustering.com/),
-  in the [preprint](https://www.biorxiv.org/content/10.1101/2024.01.18.576317v1), or on our [GitHub Repository](https://github.com/corceslab/CHOIR)."
+  hierarchical clustering tree to statistically identify clusters that represent distinct populations. You can find everything
+  you need on our [website](https://www.choirclustering.com/), in the [publication](https://www.nature.com/articles/s41588-025-02148-8), or on our [GitHub Repository](https://github.com/corceslab/CHOIR)."
 
 - title: ArchR
   image: /img/resources/ArchR.jpg
