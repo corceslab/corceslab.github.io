@@ -229,6 +229,22 @@
   I am using single-cell data to study the etiology of cognitive decline and neural network dysfunction in Alzheimer's disease,
   co-advised by Ryan Corces and Lennart Mucke."
 
+- name: Anniysh Sivakumar
+  image: /img/members/AnniyshSivakumar.jpg
+  altimage: /img/members/AnniyshSivakumar.jpg
+  pronouns: he/him/his
+  position: Undergraduate Student
+  email: anniysh.sivakumar (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: 
+  description: "I grew up in the Bay Area and am currently pursuing a degree in Biological Sciences at the University of California,
+  Santa Barbara. At UCSB, I am involved in studying spatial cognition at Professor Hegarty’s Spatial Thinking lab. I’ve previously
+  researched how path-integration and movement imagery ability differs between dancers and non-dancers, studying how dance training
+  affects cognitive measures that are often impaired as a result of movement disorders and neurodegenerative diseases. In the Corces
+  Lab, I continue to explore my interest in neurodegenerative diseases through genomics research. I am developing machine learning
+  enabled bioinformatics tools for high-resolution processing of sequencing data. Outside of the lab and school, I enjoy dancing,
+  spending time with my friends, and reading."
+
 #- name: Erica Delin
 #  image: /img/members/EricaDelin.jpg
 #  altimage: /img/members/EricaDelin.jpg
