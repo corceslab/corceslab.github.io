@@ -245,15 +245,16 @@
   enabled bioinformatics tools for high-resolution processing of sequencing data. Outside of the lab and school, I enjoy dancing,
   spending time with my friends, and reading."
 
-#- name: Erica Delin
-#  image: /img/members/EricaDelin.jpg
-#  altimage: /img/members/EricaDelin.jpg
-#  pronouns: she/her/hers
-#  position: Senior Administrative Specialist
-#  email: erica.delin (at) gladstone.ucsf.edu
- # scholar: 
- # twitter: ""
- # description: ""
+- name: Vy Ho
+  image: /img/members/VyHo.jpg
+  altimage: /img/members/VyHo.jpg
+  pronouns: she/her/hers
+  position: Administrative Assistant
+  email: vy.ho (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: 
+  description: "I was born and raised in the Bay Area. In addition to supporting the Corces lab I also support the Nakamura lab.
+  Outside of Gladstone, I enjoy exploring hiking trails, spending time with my cats, and finding a good sandwich in the city."
 
 # - name: We are recruiting!
 #   image: /img/members/NewMember.jpg
