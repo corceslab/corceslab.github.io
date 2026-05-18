@@ -1,3 +1,21 @@
+# - name: Zhongyi (James) Guo
+#   image: /img/members/JamesGuo.jpg
+#   altimage: /img/members/JamesGuo.jpg
+#   pronouns: he/him/his
+#   position: Staff Research Associate
+#   email: james.guo (at) gladstone.ucsf.edu
+#   scholar: t-b_WaYAAAAJ
+# #  orcid: ""
+#   twitter: "zhongy1guo"
+#   website: "https://jg1andonly.github.io/"
+#   description: "I grew up in Wuxi, China and came to the United States for education. I earned a BS in Statistics and Biology from
+#   Cornell and an MS in Epidemiology and Clinical Research from Stanford. My research focuses on applying AI & Statistics to study
+#   -omics and communicating results through clear scientific writing and effective visualizations. I previously worked in lab of Dr. Anshul
+#   Kundaje, gaining valuable technical and teamwork experience. Outside of work, I enjoy swimming, working out in the gym, relaxing on the
+#   grass, and sleeping."
+# #  years: "2025-2026"
+# #  nextPosition: ""
+
 # - name: Mrugakshi Chidrawar, MS
 #   image: /img/members/MrugakshiChidrawar.jpg
 #   altimage: /img/members/MrugakshiChidrawar.jpg
@@ -17,6 +35,8 @@
 #   learn about single-cell technologies and neurodegenerative diseases. I'm now developing a web application for Variant Effect Prediction
 #   and a pipeline for in-house Multiome analysis. Outside of work, I love to draw, sing and dance to Bollywood music, watch movies, obsess
 #   about the clouds and read endlessly about MBTI personality types!"
+#  years: "2022-2025"
+#  nextPosition: ""
 
 - name: Soumya Kundu
   image: /img/members/SoumyaKundu.jpg
@@ -36,6 +56,25 @@
   validate our findings using high-throughput experiments."
   years: "2020-2025"
   nextPosition: "ML Scientist, Relation Therapeutics"
+
+- name: Sachin Patel, MD, PhD
+  image: /img/members/SachinPatel.jpg
+  altimage: /img/members/SachinPatel.jpg
+#  pronouns: 
+  position: Clinical Fellow / Postdoctoral Fellow
+  email: sachin.patel (at) gladstone.ucsf.edu
+  scholar: OebRB9EAAAAJ
+#  twitter: ""
+  description: "I grew up in Anaheim, California (home of the Angels!) and moved to the east coast for my undergraduate and graduate training.
+  I graduated from Harvard with a major in Chemical and Physical Biology, and subsequently went on to complete an MD/PhD there as well. My
+  PhD was in Biological and Biomedical Sciences, with a focus on developmental and stem cell biology. I worked in the lab of Fernando Camargo,
+  developing and deploying in vivo cell barcoding technologies to understand how blood is organized and functions at a single cell level.
+  Unexpectedly, once back in medical school, I developed a growing interest in ophthalmology, which has led me back to California for
+  residency in ophthalmology at UCSF. As part of the Corces lab, I hope to leverage new and emerging single cell technologies to better
+  understand how certain eye diseases, including glaucoma, develop, with the goal of informing new therapeutics. Outside of lab, I enjoy
+  cycling around various spots in the Bay, and playing and watching basketball and soccer."
+  years: "2023-2025"
+  nextPosition: "Glaucoma clinical and research fellow, Stanford"
 
 - name: Aayushi Shah
   image: /img/members/AayushiShah.jpg
