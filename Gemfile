@@ -1,7 +1,9 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem "github-pages", '232', group: :jekyll_plugins
-
-# enable tzinfo-data for local build
-# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
-gem 'jekyll-paginate'
+gem "jekyll", "~> 4.3"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
+gem "webrick", "~> 1.8"   # needed to `bundle exec jekyll serve` locally on Ruby 3+
+gem "rubyzip", ">= 3.4.0" # pulls the patched version in (transitive dep, but pin explicitly)
