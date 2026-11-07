@@ -1,3 +1,52 @@
+- name: Vy Ho
+  image: /img/members/VyHo.jpg
+  altimage: /img/members/VyHo.jpg
+  pronouns: she/her/hers
+  position: Administrative Assistant
+  email: vy.ho (at) gladstone.ucsf.edu
+  #scholar: 
+  #twitter: 
+  description: "I was born and raised in the Bay Area. In addition to supporting the Corces lab I also support the Nakamura lab.
+  Outside of Gladstone, I enjoy exploring hiking trails, spending time with my cats, and finding a good sandwich in the city."
+  years: "2025-2026"
+  nextPosition: "Administrative Associate, Gladstone GIND Director's Office"
+
+- name: Serena Chang
+  image: /img/members/SerenaChang.jpg
+  altimage: /img/members/SerenaChang.jpg
+#  pronouns: 
+  position: Staff Research Associate
+  email: Serena.chang (at) gladstone.ucsf.edu
+#  scholar: 
+#  orcid: "0000-0002-2621-3042"
+#  twitter: 
+  description: "I grew up in the Bay Area and studied Biochemistry and General Biology as an undergraduate at the University of California, San Diego. During my time there,
+  I joined Dr. Derek Welsbie's ophthalmology lab focusing on the development of gene therapies/small molecules to mitigate degeneration in retinal ganglion cells (RGCs) with
+  hopes for vision restoration in glaucoma patients. I had the opportunity to design plasmid constructs for CRISPR-Cas9 gene editing and to work on optimizing the
+  differentiation of human STEM cells into RGCs. In my final quarter as an undergraduate, I was introduced to and amazed by the field of epigenetics which led me to join the
+  Corces Lab where I could dive further into epigenomic profiling of major neurodegenerative diseases. When I'm not in lab, I like crocheting tiny plushies and trying new coffee places."
+  years: "2023-2026"
+  nextPosition: "PhD Student, UCSF PhD Program in Biomedical Sciences"
+
+- name: Vitto Resnick
+  image: /img/members/VittoResnick.jpg
+  altimage: /img/members/VittoResnick.jpg
+ # pronouns: he/him/his
+  position: Staff Research Associate
+  email: vitto.resnick (at) gladstone.ucsf.edu
+ # scholar: EtTtF5wAAAAJ
+ # twitter: ""
+  description: "I grew up in the San Fernando Valley (aka the Valley) in Los Angeles, CA and went to the University of California, Berkeley
+  to pursue degrees in Chemical Biology (Concentration: Computational Chemistry), Psychology, Molecular & Cell Biology (Emphasis: Neurobiology),
+  and Nutritional Sciences (Emphasis: Physiology & Metabolism). While there, I developed an interest in the pathology of and therapeutic
+  approaches for neurodegenerative diseases. In Dr. John Flannery's lab, I developed three novel optogenetic therapies for retinal degeneration
+  by targeting bipolar cells for transgenic expression of high-performance synthetic opsins, and I assessed vision restoration in mouse models
+  of retinal degeneration through behavioral assays. After graduating in 2024, I joined the Corces Lab to study neurodegenerative diseases via
+  single-cell multiomics approaches to epigenetic profiling. Outside of lab, I enjoy powerlifting, playing tennis, studying foreign languages,
+  writing poetry, and exploring new ways to make coffee."
+  years: "2024-2026"
+  nextPosition: "MSTP Student, Mayo Clinic Alix School of Medicine"
+
 # - name: Zhongyi (James) Guo
 #   image: /img/members/JamesGuo.jpg
 #   altimage: /img/members/JamesGuo.jpg
