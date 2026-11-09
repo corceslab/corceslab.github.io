@@ -1,7 +1,13 @@
 carousel:
   - images:
-    - image: /img/carousels/Carousel_2023-LabGroupPhoto.jpg
+    - image: /img/carousels/Carousel_2026-Lab-Group-Photo.jpg
+    - image: /img/carousels/Carousel_2025-Gladstone-Halloween-Party.jpg
+    - image: /img/carousels/Carousel_2025-Halloween.jpg
+    - image: /img/carousels/Carousel_2025-LabRetreat.jpg
+    - image: /img/carousels/Carousel_2025_Elephant-Seal-Hike.jpg
+#    - image: /img/carousels/Carousel_2023-LabGroupPhoto.jpg
     - image: /img/carousels/Carousel_2024-RetreatKayaking.jpg
+    - image: /img/carousels/Carousel_2024-Holiday-Party.jpg
     - image: /img/carousels/Carousel_2024-Halloween.jpg
     - image: /img/carousels/Carousel_2024-GiantsGame.jpg
     - image: /img/carousels/Carousel_2023-LabRetreat2.jpg
