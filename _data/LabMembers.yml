@@ -206,16 +206,11 @@
   image: /img/members/AaronYan.jpg
   altimage: /img/members/AaronYan.jpg
   #pronouns: he/him/his
-  position: Undergraduate Student
+  position: Staff Research Associate
   email: aaron.yan (at) gladstone.ucsf.edu
   #scholar: 
   #twitter: 
-  description: "I grew up in Irvine, CA, and moved up north to study molecular and cellular biology (MCB) and data science at the University
-  of California, Berkeley. In my undergrad, I primarily conducted research in the Flanagan lab, investigating the morphological and
-  transcriptomic impacts of ocular hypertension on retinal astrocytes and how these effects are ameliorated by lipoxins. Pivoting to
-  computational research in the Corces Lab, I focus on processing and analyzing multiomic data to answer questions about the effects of
-  genomic variants on neurodegenerative diseases. I enjoy a myriad of various activities in the company of friends (board games, sports,
-  movies) and enjoy experimenting with new cooking recipes."
+  description: ""
 
 # - name: Stella Zeng
 #   image: /img/members/NewMember.jpg
