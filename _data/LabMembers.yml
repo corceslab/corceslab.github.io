@@ -46,6 +46,28 @@
   disease and genomics. In the Corces Lab, I plan to leverage single-cell analysis and machine learning to investigate cell
   type-specific epigenetic mechanisms underlying Alzheimer’s Disease. Outside of the lab, I love climbing mountains, seeing
   live music, and trying (but occasionally succeeding) to solve NYTimes crosswords."
+  #years: "2025-"
+  #nextPosition: ""
+
+
+- name: Katie Brown
+  image: /img/members/KatieBrown.jpg
+  altimage: /img/members/KatieBrown.jpg
+  pronouns: she/her/hers
+  position: UCSF PhD Student (Neuroscience)
+  email: katie.brown (at) gladstone.ucsf.edu
+  scholar: hJYVoS8AAAAJ
+#  orcid: ""
+#  twitter: ""
+  description: "I grew up in Novato, CA, and moved across the bay to study Molecular and Cell Biology at UC Berkeley. As an
+  undergraduate, I worked in labs studying the origin of flight in nonvolant reptiles and the role of extracellular vesicles
+  in the immune response. After graduating, I joined Dr. Claire Clelland’s lab at UCSF, where I developed and optimized
+  CRISPR-based gene therapies targeting the C9orf72 repeat expansion, the most common genetic cause of FTD/ALS. Through this
+  work, I became interested in functional genomics and neurodegeneration. As a neuroscience PhD student in the Corces Lab, I
+  plan to investigate how genetic variants contribute to Alzheimer’s disease. Outside of the lab, I enjoy watching Bay Area
+  sports, trivia, and spending time with my friends."
+  #years: "2026-"
+  #nextPosition: ""
 
 
 - name: Iris Chin
@@ -68,6 +90,8 @@
   as MPRA and CRISPRi in vitro, and generating CRISPR-edited hiPSC-derived models of brain cell types to validate our high-throughput
   results. Outside of the lab, I can be found taking long walks with an iced coffee, hiking through beautiful Californian landscapes,
   or working on my crochet small business."
+  #years: "2021-"
+  #nextPosition: ""
 
 - name: Leah DeFlitch
   image: /img/members/LeahDeFlitch.jpg
@@ -87,6 +111,9 @@
   PhD in Neuroscience at UCSF, aiming to combine my background in iPSC systems with new genetic approaches. In the Corces lab, I
   plan to combine genomic profiling with functional assays to investigate the mechanisms underlying Alzheimer's disease. Outside
   of pipetting, I love running far distances, baking tall cakes, and watching the occasional Penguins hockey game."
+  #years: "2024-"
+  #nextPosition: ""
+
 
 - name: Zach Gardell
   image: /img/members/ZachGardell.jpg
@@ -108,6 +135,9 @@
   In particular, I am interested in the interplay between such drivers and their contextual relationships in a cell-type and cell-state
   specific manner. Outside of lab, you'll find me working with UCSF's Science Education Partnership, exploring new ways to consume coffee,
   or making my way to a beach or a mountain."
+  #years: "2021-"
+  #nextPosition: ""
+
   
 - name: Anthony Haunt (Raus), PhD
   image: /img/members/AnthonyHaunt.jpg
@@ -128,6 +158,9 @@
   single-cell sequencing techniques and bioinformatics tools to understand how the epigenome and the environment influence
   neurodegenerative diseases, including Alzheimer's and Frontotemporal Dementia. I also enjoy swing dancing, cooking, scootering,
   art, hiking, video games, board games, and card games."
+  #years: "2023-"
+  #nextPosition: ""
+
 
 - name: Veronika Kulik
   image: /img/members/VeronikaKulik.jpg
@@ -149,6 +182,8 @@
   healthy brain aging and investigate what makes cells that express the maternal or paternal X chromosome epigenetically distinct.
   Outside of the lab, you can find me trying new cafes and restaurants, watching San Jose Sharks games (usually with my head in my
   hands), and hiking around the Bay Area."
+  #years: "2026-"
+  #nextPosition: ""
 
 
 - name: Shreya Menon
@@ -166,6 +201,9 @@
   effects and balanced chromosomal abnormalities. In 2020, I moved across the country to start in the Medical Scientist Training Program at UCSF. In graduate
   school, I hope to bring together my background in mathematics with my interest in genetics to use and develop analytical techniques to help better
   understand how the epigenome influences disease pathology. Outside of the lab, I enjoy trying new foods, going for long walks, and baking."
+  #years: "2022-"
+  #nextPosition: ""
+
 
 - name: Cathrine Sant (Petersen)
   image: /img/members/CathrineSant.jpg
@@ -185,6 +223,9 @@
   single-cell data, CHOIR, that uses permutation testing to identify biologically distinct cell types and states. As a postdoc,
   I am using single-cell data to study the etiology of cognitive decline and neural network dysfunction in Alzheimer's disease,
   co-advised by Ryan Corces and Lennart Mucke."
+  #years: "2021-"
+  #nextPosition: ""
+
 
 - name: Anniysh Sivakumar
   image: /img/members/AnniyshSivakumar.jpg
@@ -201,6 +242,9 @@
   Lab, I continue to explore my interest in neurodegenerative diseases through genomics research. I am developing machine learning
   enabled bioinformatics tools for high-resolution processing of sequencing data. Outside of the lab and school, I enjoy dancing,
   spending time with my friends, and reading."
+  #years: "2025-"
+  #nextPosition: ""
+
 
 - name: Aaron Yan
   image: /img/members/AaronYan.jpg
@@ -216,6 +260,8 @@
   computational research in the Corces Lab, I focus on processing and analyzing multiomic data to answer questions about the effects of
   genomic variants on neurodegenerative diseases. I enjoy a myriad of various activities in the company of friends (board games, sports,
   movies) and enjoy experimenting with new cooking recipes."
+  #years: "2026-"
+  #nextPosition: ""
 
 # - name: Stella Zeng
 #   image: /img/members/NewMember.jpg
@@ -226,6 +272,8 @@
 #   #scholar: 
 #   #twitter: 
 #   description: ""
+#   years: "2026-"
+#   nextPosition: ""
 
 # - name: We are recruiting!
 #   image: /img/members/NewMember.jpg
